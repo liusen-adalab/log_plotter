@@ -1,0 +1,758 @@
+--------------------开始测试-------------------------------
+2021-12-02T17:31:51.473+0800	INFO	lotus-bench	lotus-bench/main.go:119	Starting lotus-bench
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2021-12-02T17:31:51.728+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2021-12-02T17:31:51.732+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2021-12-02T17:31:51.733+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2021-12-02T17:31:52.006+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.params is ok
+2021-12-02T17:31:52.169+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2021-12-02T17:32:07.155+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.params is ok
+2021-12-02T17:32:07.155+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+2021-12-02T17:32:07.156+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:625	ZR: ffi C2 start
+2021-12-02T17:32:07.169 INFO filcrypto::proofs::api > seal_commit_phase2: start
+2021-12-02T17:32:07.252 INFO filecoin_proofs::api::seal > seal_commit_phase2:start: SectorId(0)
+2021-12-02T17:32:07.252 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]
+2021-12-02T17:32:07.252 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]
+2021-12-02T17:32:07.253 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-02T17:32:07.253 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" exist
+2021-12-02T17:32:07.253 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" for parameters
+2021-12-02T17:32:09.445 INFO storage_proofs_core::parameter_cache > read parameters from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" 
+2021-12-02T17:32:09.446 INFO filecoin_proofs::api::seal > got groth params (34359738368) while sealing
+2021-12-02T17:32:09.446 INFO filecoin_proofs::api::seal > snark_proof:start
+2021-12-02T17:32:09.471 INFO bellperson::groth16::prover > Bellperson 0.16.3 sen_dev is being used!
+2021-12-02T17:32:09.583 INFO bellperson::groth16::prover::mem_util > before compute process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.611 INFO bellperson::groth16::prover::mem_util > before run pool scope process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.727 INFO bellperson::groth16::prover::mem_util > before circuit 1 process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.727 INFO bellperson::groth16::prover::mem_util > before circuit 3 process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.727 INFO bellperson::groth16::prover::mem_util > before circuit 2 process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.729 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:32:09.730 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:32:09.730 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:32:09.731 INFO bellperson::groth16::prover::mem_util > before circuit 0 process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.733 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:32:09.778 INFO bellperson::groth16::prover::mem_util > sen: build 3th prover start  process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.782 INFO bellperson::groth16::prover::mem_util > sen: build 1th prover start  process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.782 INFO bellperson::groth16::prover::mem_util > sen: build 2th prover start  process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:09.782 INFO bellperson::groth16::prover::mem_util > sen: build 0th prover start  process id :2199212 | Physical MemUsage 7GB
+2021-12-02T17:32:58.530+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params is ok
+2021-12-02T17:33:16.622+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.params is ok
+2021-12-02T17:33:16.622+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+2021-12-02T17:33:16.622+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:625	ZR: ffi C2 start
+2021-12-02T17:33:16.635 INFO filcrypto::proofs::api > seal_commit_phase2: start
+2021-12-02T17:33:16.718 INFO filecoin_proofs::api::seal > seal_commit_phase2:start: SectorId(0)
+2021-12-02T17:33:16.718 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]
+2021-12-02T17:33:16.718 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]
+2021-12-02T17:33:16.718 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-02T17:33:16.719 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" exist
+2021-12-02T17:33:16.719 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" for parameters
+2021-12-02T17:33:18.869 INFO storage_proofs_core::parameter_cache > read parameters from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" 
+2021-12-02T17:33:18.870 INFO filecoin_proofs::api::seal > got groth params (34359738368) while sealing
+2021-12-02T17:33:18.870 INFO filecoin_proofs::api::seal > snark_proof:start
+2021-12-02T17:33:18.885 INFO bellperson::groth16::prover > Bellperson 0.16.3 sen_dev is being used!
+2021-12-02T17:33:19.000 INFO bellperson::groth16::prover::mem_util > before compute process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.028 INFO bellperson::groth16::prover::mem_util > before run pool scope process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.141 INFO bellperson::groth16::prover::mem_util > before circuit 1 process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.141 INFO bellperson::groth16::prover::mem_util > before circuit 2 process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.144 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:33:19.145 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:33:19.145 INFO bellperson::groth16::prover::mem_util > before circuit 0 process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.147 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:33:19.147 INFO bellperson::groth16::prover::mem_util > before circuit 3 process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.149 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:33:19.195 INFO bellperson::groth16::prover::mem_util > sen: build 1th prover start  process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.195 INFO bellperson::groth16::prover::mem_util > sen: build 2th prover start  process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.201 INFO bellperson::groth16::prover::mem_util > sen: build 0th prover start  process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:33:19.201 INFO bellperson::groth16::prover::mem_util > sen: build 3th prover start  process id :2202017 | Physical MemUsage 7GB
+2021-12-02T17:34:02.700 INFO bellperson::groth16::prover > ZR: build provers  end: 112.966734694s
+2021-12-02T17:34:02.767 INFO bellperson::groth16::prover::mem_util > sen: build 0th prover end process id :2199212 | Physical MemUsage 69GB
+2021-12-02T17:34:02.770 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:34:02.809 INFO bellperson::groth16::prover::mem_util > sen: 0th getparams start  process id :2199212 | Physical MemUsage 69GB
+2021-12-02T17:34:02.850 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 69GB
+2021-12-02T17:34:04.403 INFO bellperson::groth16::prover > ZR: build provers  end: 114.672791848s
+2021-12-02T17:34:04.488 INFO bellperson::groth16::prover::mem_util > sen: build 3th prover end process id :2199212 | Physical MemUsage 74GB
+2021-12-02T17:34:04.493 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:34:04.561 INFO bellperson::groth16::prover::mem_util > sen: 3th getparams start  process id :2199212 | Physical MemUsage 75GB
+2021-12-02T17:34:04.612 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 75GB
+2021-12-02T17:34:05.160 INFO bellperson::groth16::prover > ZR: build provers  end: 115.430044447s
+2021-12-02T17:34:05.215 INFO bellperson::groth16::prover::mem_util > sen: build 1th prover end process id :2199212 | Physical MemUsage 78GB
+2021-12-02T17:34:05.220 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:34:05.280 INFO bellperson::groth16::prover::mem_util > sen: 1th getparams start  process id :2199212 | Physical MemUsage 78GB
+2021-12-02T17:34:05.332 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 78GB
+2021-12-02T17:34:06.922 INFO bellperson::groth16::prover > ZR: build provers  end: 117.192101719s
+2021-12-02T17:34:06.993 INFO bellperson::groth16::prover::mem_util > sen: build 2th prover end process id :2199212 | Physical MemUsage 84GB
+2021-12-02T17:34:06.997 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:34:07.050 INFO bellperson::groth16::prover::mem_util > sen: 2th getparams start  process id :2199212 | Physical MemUsage 84GB
+2021-12-02T17:34:07.103 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 84GB
+2021-12-02T17:35:22.753 INFO bellperson::groth16::prover > ZR: build provers  end: 123.6040223s
+2021-12-02T17:35:22.813 INFO bellperson::groth16::prover::mem_util > sen: build 3th prover end process id :2202017 | Physical MemUsage 61GB
+2021-12-02T17:35:22.816 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:35:22.851 INFO bellperson::groth16::prover::mem_util > sen: 3th getparams start  process id :2202017 | Physical MemUsage 61GB
+2021-12-02T17:35:22.887 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 61GB
+2021-12-02T17:35:37.273 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:35:37.317 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:35:37.393 INFO bellperson::groth16::prover::mem_util > sen: waiting 2th getparams process id :2199212 | Physical MemUsage 358GB
+2021-12-02T17:35:37.393 INFO bellperson::groth16::prover::mem_util > sen: waiting 1th getparams process id :2199212 | Physical MemUsage 358GB
+2021-12-02T17:35:37.403 INFO bellperson::groth16::prover > ZR: get params end: 92.118528938s
+2021-12-02T17:35:37.403 INFO bellperson::groth16::prover > ZR: get params end: 90.348819723s
+2021-12-02T17:35:37.485 INFO bellperson::groth16::prover::mem_util > sen: got 2th getparams process id :2199212 | Physical MemUsage 358GB
+2021-12-02T17:35:37.487 INFO bellperson::groth16::prover::mem_util > sen: got 1th getparams process id :2199212 | Physical MemUsage 358GB
+2021-12-02T17:35:37.493 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:35:37.495 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:35:37.890 INFO bellperson::gpu::locks > GPU is available for FFT!
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+2021-12-02T17:35:37.950 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:35:38.486 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:35:38.486 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-02T17:35:38.486 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:35:38.503 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:35:38.503 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-02T17:35:38.503 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:35:54.790 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:35:54.864 INFO bellperson::groth16::prover::mem_util > sen: waiting 0th getparams process id :2199212 | Physical MemUsage 376GB
+2021-12-02T17:35:54.870 INFO bellperson::groth16::prover > ZR: get params end: 112.05874278s
+2021-12-02T17:35:54.936 INFO bellperson::groth16::prover::mem_util > sen: got 0th getparams process id :2199212 | Physical MemUsage 376GB
+2021-12-02T17:35:54.942 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:35:55.114 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:35:58.343 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:35:58.428 INFO bellperson::groth16::prover::mem_util > sen: waiting 3th getparams process id :2199212 | Physical MemUsage 378GB
+2021-12-02T17:35:58.433 INFO bellperson::groth16::prover > ZR: get params end: 113.867634315s
+2021-12-02T17:35:58.488 INFO bellperson::groth16::prover::mem_util > sen: got 3th getparams process id :2199212 | Physical MemUsage 378GB
+2021-12-02T17:35:58.493 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:35:58.669 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:36:10.102 INFO bellperson::groth16::prover > ZR: a_s end: 32.607140266s
+2021-12-02T17:36:11.353 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:36:11.353 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:36:11.353 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:36:16.061 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:36:16.121 INFO bellperson::groth16::prover::mem_util > sen: waiting 3th getparams process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:36:16.125 INFO bellperson::groth16::prover > ZR: get params end: 53.271857828s
+2021-12-02T17:36:16.162 INFO bellperson::groth16::prover::mem_util > sen: got 3th getparams process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:36:16.164 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:36:16.169 INFO bellperson::groth16::prover > ZR: build provers  end: 177.024942953s
+2021-12-02T17:36:16.204 INFO bellperson::groth16::prover::mem_util > sen: build 1th prover end process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:36:16.207 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:36:16.241 INFO bellperson::groth16::prover::mem_util > sen: 1th getparams start  process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:36:16.283 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:36:16.307 INFO bellperson::gpu::locks > GPU is available for FFT!
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+2021-12-02T17:36:18.554 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:36:18.554 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-02T17:36:18.554 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:36:20.322 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:36:20.322 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:36:22.325 INFO bellperson::groth16::prover > ZR: a_s end: 44.832413687s
+2021-12-02T17:36:24.310 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:36:24.310 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-02T17:36:24.310 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:36:28.488 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:36:28.488 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:36:33.824 INFO bellperson::groth16::prover > ZR: a_s end: 38.881715173s
+2021-12-02T17:36:33.993 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:36:33.993 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:36:36.366 INFO bellperson::groth16::prover > ZR: build provers  end: 197.219109259s
+2021-12-02T17:36:36.481 INFO bellperson::groth16::prover::mem_util > sen: build 0th prover end process id :2202017 | Physical MemUsage 215GB
+2021-12-02T17:36:36.487 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:36:36.525 INFO bellperson::groth16::prover::mem_util > sen: 0th getparams start  process id :2202017 | Physical MemUsage 216GB
+2021-12-02T17:36:36.582 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 216GB
+2021-12-02T17:36:43.105 INFO bellperson::groth16::prover > ZR: a_s end: 44.61207061s
+2021-12-02T17:36:43.158 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:36:43.158 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:37:02.490 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:37:02.558 INFO bellperson::groth16::prover::mem_util > sen: waiting 1th getparams process id :2202017 | Physical MemUsage 294GB
+2021-12-02T17:37:02.560 INFO bellperson::groth16::prover > ZR: get params end: 46.316395382s
+2021-12-02T17:37:02.600 INFO bellperson::groth16::prover::mem_util > sen: got 1th getparams process id :2202017 | Physical MemUsage 295GB
+2021-12-02T17:37:02.603 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:37:02.855 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:37:03.031 INFO bellperson::groth16::prover > ZR: build provers  end: 223.886661152s
+2021-12-02T17:37:03.082 INFO bellperson::groth16::prover::mem_util > sen: build 2th prover end process id :2202017 | Physical MemUsage 297GB
+2021-12-02T17:37:03.085 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:37:03.129 INFO bellperson::groth16::prover::mem_util > sen: 2th getparams start  process id :2202017 | Physical MemUsage 297GB
+2021-12-02T17:37:03.176 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 298GB
+2021-12-02T17:37:05.474 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:37:05.548 INFO bellperson::groth16::prover::mem_util > sen: waiting 0th getparams process id :2202017 | Physical MemUsage 308GB
+2021-12-02T17:37:05.552 INFO bellperson::groth16::prover > ZR: get params end: 29.022246143s
+2021-12-02T17:37:05.670 INFO bellperson::groth16::prover::mem_util > sen: got 0th getparams process id :2202017 | Physical MemUsage 308GB
+2021-12-02T17:37:05.674 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:37:05.944 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:37:05.944 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-02T17:37:05.944 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:37:05.954 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:37:17.220 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:37:17.220 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:37:17.220 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:37:22.984 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:37:23.062 INFO bellperson::groth16::prover::mem_util > sen: waiting 2th getparams process id :2202017 | Physical MemUsage 344GB
+2021-12-02T17:37:23.070 INFO bellperson::groth16::prover > ZR: get params end: 19.937556945s
+2021-12-02T17:37:23.141 INFO bellperson::groth16::prover::mem_util > sen: got 2th getparams process id :2202017 | Physical MemUsage 344GB
+2021-12-02T17:37:23.145 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:37:23.249 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:37:26.515 INFO bellperson::groth16::prover > ZR: a_s end: 70.351226489s
+2021-12-02T17:37:33.550 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:37:33.550 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-02T17:37:33.550 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:37:33.590 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:37:33.590 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:37:36.327 INFO bellperson::groth16::prover > ZR: a_s end: 33.724561194s
+2021-12-02T17:37:48.073 INFO bellperson::groth16::prover > ZR: a_s end: 42.398207707s
+2021-12-02T17:37:49.702 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:37:49.703 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:37:49.722 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:37:49.722 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:38:04.018 INFO bellperson::groth16::prover > ZR: a_s end: 40.873166643s
+2021-12-02T17:38:04.060 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:38:04.061 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:38:04.531 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:38:04.531 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:04.531 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:04.531 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:04.531 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:04.531 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:38:09.380 INFO bellperson::groth16::prover > ZR: h_s end: 5.319425435s
+2021-12-02T17:38:09.380 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:38:12.589 INFO bellperson::groth16::prover > ZR: l_s end: 3.209336944s
+2021-12-02T17:38:12.589 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:38:25.339 INFO bellperson::groth16::prover > ZR: inputs end: 12.749738185s
+2021-12-02T17:38:25.950 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:38:25.950 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:25.950 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:25.950 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:25.950 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:25.950 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:38:27.150 INFO bellperson::groth16::prover::mem_util > after circuit 2 process id :2202017 | Physical MemUsage 269GB
+2021-12-02T17:38:29.110 INFO bellperson::groth16::prover::mem_util > before circuit 4 process id :2202017 | Physical MemUsage 269GB
+2021-12-02T17:38:29.112 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:38:29.153 INFO bellperson::groth16::prover::mem_util > sen: build 4th prover start  process id :2202017 | Physical MemUsage 269GB
+2021-12-02T17:38:30.644 INFO bellperson::groth16::prover > ZR: h_s end: 107.485770229s
+2021-12-02T17:38:30.644 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:38:33.990 INFO bellperson::groth16::prover > ZR: l_s end: 3.346088695s
+2021-12-02T17:38:33.990 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:38:45.899 INFO bellperson::groth16::prover > ZR: inputs end: 11.909223622s
+2021-12-02T17:38:47.734 INFO bellperson::groth16::prover::mem_util > after circuit 3 process id :2199212 | Physical MemUsage 294GB
+2021-12-02T17:38:48.207 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:38:48.207 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:48.207 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:48.207 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:48.207 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:38:48.207 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:38:49.703 INFO bellperson::groth16::prover::mem_util > before circuit 4 process id :2199212 | Physical MemUsage 294GB
+2021-12-02T17:38:49.709 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:38:49.756 INFO bellperson::groth16::prover::mem_util > sen: build 4th prover start  process id :2199212 | Physical MemUsage 294GB
+2021-12-02T17:38:52.718 INFO bellperson::groth16::prover > ZR: h_s end: 144.23008683s
+2021-12-02T17:38:52.718 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:38:55.971 INFO bellperson::groth16::prover > ZR: l_s end: 3.253437865s
+2021-12-02T17:38:55.972 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:39:06.870 INFO bellperson::groth16::prover > ZR: inputs end: 10.898211426s
+2021-12-02T17:39:07.487 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:39:07.488 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:07.488 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:07.488 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:07.488 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:07.488 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:39:08.672 INFO bellperson::groth16::prover::mem_util > after circuit 2 process id :2199212 | Physical MemUsage 244GB
+2021-12-02T17:39:09.683 INFO bellperson::groth16::prover::mem_util > before circuit 5 process id :2199212 | Physical MemUsage 245GB
+2021-12-02T17:39:09.686 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:39:09.729 INFO bellperson::groth16::prover::mem_util > sen: build 5th prover start  process id :2199212 | Physical MemUsage 245GB
+2021-12-02T17:39:14.935 INFO bellperson::groth16::prover > ZR: h_s end: 85.231618053s
+2021-12-02T17:39:14.935 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:39:23.745 INFO bellperson::groth16::prover > ZR: l_s end: 8.810746853s
+2021-12-02T17:39:23.746 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:39:41.052 INFO bellperson::groth16::prover > ZR: inputs end: 17.306030048s
+2021-12-02T17:39:43.005 INFO bellperson::groth16::prover::mem_util > after circuit 1 process id :2202017 | Physical MemUsage 226GB
+2021-12-02T17:39:43.088 INFO bellperson::groth16::prover::mem_util > before circuit 5 process id :2202017 | Physical MemUsage 226GB
+2021-12-02T17:39:43.091 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:39:43.131 INFO bellperson::groth16::prover::mem_util > sen: build 5th prover start  process id :2202017 | Physical MemUsage 226GB
+2021-12-02T17:39:43.438 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:39:43.438 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:43.438 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:43.438 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:43.438 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:39:43.438 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:39:49.422 INFO bellperson::groth16::prover > ZR: h_s end: 119.699367724s
+2021-12-02T17:39:49.422 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:39:56.377 INFO bellperson::groth16::prover > ZR: l_s end: 6.955343427s
+2021-12-02T17:39:56.377 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:40:13.463 INFO bellperson::groth16::prover > ZR: inputs end: 17.086440613s
+2021-12-02T17:40:14.071 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:40:14.071 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:14.071 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:14.071 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:14.071 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:14.071 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:40:15.439 INFO bellperson::groth16::prover::mem_util > after circuit 0 process id :2202017 | Physical MemUsage 182GB
+2021-12-02T17:40:17.117 INFO bellperson::groth16::prover::mem_util > before circuit 6 process id :2202017 | Physical MemUsage 182GB
+2021-12-02T17:40:17.120 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:40:17.159 INFO bellperson::groth16::prover::mem_util > sen: build 6th prover start  process id :2202017 | Physical MemUsage 182GB
+2021-12-02T17:40:19.147 INFO bellperson::groth16::prover > ZR: h_s end: 238.825330405s
+2021-12-02T17:40:19.147 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:40:22.502 INFO bellperson::groth16::prover > ZR: l_s end: 3.35469325s
+2021-12-02T17:40:22.502 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:40:33.385 INFO bellperson::groth16::prover > ZR: build provers  end: 124.272359875s
+2021-12-02T17:40:33.451 INFO bellperson::groth16::prover::mem_util > sen: build 4th prover end process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:40:33.454 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:40:33.494 INFO bellperson::groth16::prover::mem_util > sen: 4th getparams start  process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:40:33.537 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:40:33.682 INFO bellperson::groth16::prover > ZR: inputs end: 11.179353651s
+2021-12-02T17:40:35.281 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:40:35.281 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:35.281 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:35.281 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:35.281 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:40:35.281 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:40:35.948 INFO bellperson::groth16::prover::mem_util > after circuit 1 process id :2199212 | Physical MemUsage 216GB
+2021-12-02T17:40:37.713 INFO bellperson::groth16::prover::mem_util > before circuit 6 process id :2199212 | Physical MemUsage 216GB
+2021-12-02T17:40:37.717 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:40:37.797 INFO bellperson::groth16::prover::mem_util > sen: build 6th prover start  process id :2199212 | Physical MemUsage 216GB
+2021-12-02T17:40:46.089 INFO bellperson::groth16::prover > ZR: build provers  end: 116.380758073s
+2021-12-02T17:40:46.155 INFO bellperson::groth16::prover::mem_util > sen: build 4th prover end process id :2199212 | Physical MemUsage 219GB
+2021-12-02T17:40:46.159 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:40:46.200 INFO bellperson::groth16::prover::mem_util > sen: 4th getparams start  process id :2199212 | Physical MemUsage 219GB
+2021-12-02T17:40:46.245 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 219GB
+2021-12-02T17:40:50.810 INFO bellperson::groth16::prover > ZR: h_s end: 197.217187909s
+2021-12-02T17:40:50.851 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:40:55.363 INFO bellperson::groth16::prover > ZR: l_s end: 4.512112047s
+2021-12-02T17:40:55.363 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:40:57.917 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:40:57.996 INFO bellperson::groth16::prover::mem_util > sen: waiting 4th getparams process id :2202017 | Physical MemUsage 238GB
+2021-12-02T17:40:58.000 INFO bellperson::groth16::prover > ZR: get params end: 24.503190231s
+2021-12-02T17:40:58.054 INFO bellperson::groth16::prover::mem_util > sen: got 4th getparams process id :2202017 | Physical MemUsage 238GB
+2021-12-02T17:40:58.058 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:40:58.218 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:41:00.413 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:41:00.488 INFO bellperson::groth16::prover::mem_util > sen: waiting 4th getparams process id :2199212 | Physical MemUsage 266GB
+2021-12-02T17:41:00.495 INFO bellperson::groth16::prover > ZR: get params end: 14.291862624s
+2021-12-02T17:41:00.536 INFO bellperson::groth16::prover::mem_util > sen: got 4th getparams process id :2199212 | Physical MemUsage 266GB
+2021-12-02T17:41:00.539 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:41:00.626 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:41:10.881 INFO bellperson::groth16::prover > ZR: build provers  end: 121.194426905s
+2021-12-02T17:41:10.950 INFO bellperson::groth16::prover::mem_util > sen: build 5th prover end process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:41:10.953 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:41:10.996 INFO bellperson::groth16::prover::mem_util > sen: 5th getparams start  process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:41:11.042 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:41:15.533 INFO bellperson::groth16::prover > ZR: inputs end: 20.169802671s
+2021-12-02T17:41:17.121 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:41:17.121 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:41:17.121 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:41:17.121 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:41:17.121 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:41:17.121 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:41:17.753 INFO bellperson::groth16::prover::mem_util > after circuit 3 process id :2202017 | Physical MemUsage 190GB
+2021-12-02T17:41:19.136 INFO bellperson::groth16::prover::mem_util > before circuit 7 process id :2202017 | Physical MemUsage 190GB
+2021-12-02T17:41:19.140 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:41:19.204 INFO bellperson::groth16::prover::mem_util > sen: build 7th prover start  process id :2202017 | Physical MemUsage 190GB
+2021-12-02T17:41:22.328 INFO bellperson::groth16::prover > ZR: h_s end: 288.335142235s
+2021-12-02T17:41:22.328 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:41:24.568 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:41:24.618 INFO bellperson::groth16::prover::mem_util > sen: waiting 5th getparams process id :2199212 | Physical MemUsage 311GB
+2021-12-02T17:41:24.621 INFO bellperson::groth16::prover > ZR: get params end: 13.621689496s
+2021-12-02T17:41:24.663 INFO bellperson::groth16::prover::mem_util > sen: got 5th getparams process id :2199212 | Physical MemUsage 311GB
+2021-12-02T17:41:24.666 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:41:24.897 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:41:26.989 INFO bellperson::groth16::prover > ZR: l_s end: 4.660461961s
+2021-12-02T17:41:26.989 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:41:38.710 INFO bellperson::groth16::prover > ZR: inputs end: 11.721517601s
+2021-12-02T17:41:38.999 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:41:38.999 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-02T17:41:38.999 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:41:40.298 INFO bellperson::groth16::prover::mem_util > after circuit 0 process id :2199212 | Physical MemUsage 265GB
+2021-12-02T17:41:40.436 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:41:40.436 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-02T17:41:40.436 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:41:40.458 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:41:40.458 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:41:40.458 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:41:41.782 INFO bellperson::groth16::prover::mem_util > before circuit 7 process id :2199212 | Physical MemUsage 266GB
+2021-12-02T17:41:41.786 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:41:42.006 INFO bellperson::groth16::prover::mem_util > sen: build 7th prover start  process id :2199212 | Physical MemUsage 266GB
+2021-12-02T17:41:55.253 INFO bellperson::groth16::prover > ZR: build provers  end: 132.162280558s
+2021-12-02T17:41:55.710 INFO bellperson::groth16::prover::mem_util > sen: build 5th prover end process id :2202017 | Physical MemUsage 204GB
+2021-12-02T17:41:55.714 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:41:55.760 INFO bellperson::groth16::prover::mem_util > sen: 5th getparams start  process id :2202017 | Physical MemUsage 204GB
+2021-12-02T17:41:55.807 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 204GB
+2021-12-02T17:42:03.238 INFO bellperson::groth16::prover > ZR: a_s end: 62.698807129s
+2021-12-02T17:42:03.346 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:42:03.346 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:42:04.985 INFO bellperson::groth16::prover > ZR: a_s end: 40.318892824s
+2021-12-02T17:42:05.054 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:42:05.054 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:42:09.211 INFO bellperson::groth16::prover > ZR: a_s end: 71.152684244s
+2021-12-02T17:42:09.280 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:42:09.280 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:42:09.835 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:42:09.835 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:09.835 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:09.835 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:09.835 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:09.835 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:42:14.062 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:42:14.128 INFO bellperson::groth16::prover::mem_util > sen: waiting 5th getparams process id :2202017 | Physical MemUsage 244GB
+2021-12-02T17:42:14.132 INFO bellperson::groth16::prover > ZR: get params end: 18.370324276s
+2021-12-02T17:42:14.171 INFO bellperson::groth16::prover::mem_util > sen: got 5th getparams process id :2202017 | Physical MemUsage 244GB
+2021-12-02T17:42:14.175 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:42:14.275 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:42:16.215 INFO bellperson::groth16::prover > ZR: h_s end: 6.934770119s
+2021-12-02T17:42:16.215 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:42:25.483 INFO bellperson::groth16::prover > ZR: l_s end: 9.267553535s
+2021-12-02T17:42:25.483 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:42:40.842 INFO bellperson::groth16::prover > ZR: build provers  end: 143.722138618s
+2021-12-02T17:42:40.905 INFO bellperson::groth16::prover::mem_util > sen: build 6th prover end process id :2202017 | Physical MemUsage 247GB
+2021-12-02T17:42:40.908 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:42:40.947 INFO bellperson::groth16::prover::mem_util > sen: 6th getparams start  process id :2202017 | Physical MemUsage 248GB
+2021-12-02T17:42:40.988 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 248GB
+2021-12-02T17:42:51.498 INFO bellperson::groth16::prover > ZR: inputs end: 26.014902566s
+2021-12-02T17:42:52.121 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:42:52.121 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:52.121 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:52.121 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:52.121 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:42:52.121 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:42:53.232 INFO bellperson::groth16::prover > ZR: build provers  end: 135.514970864s
+2021-12-02T17:42:53.293 INFO bellperson::groth16::prover::mem_util > sen: build 6th prover end process id :2199212 | Physical MemUsage 267GB
+2021-12-02T17:42:53.296 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:42:53.331 INFO bellperson::groth16::prover::mem_util > sen: 6th getparams start  process id :2199212 | Physical MemUsage 267GB
+2021-12-02T17:42:53.370 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 267GB
+2021-12-02T17:42:54.486 INFO bellperson::groth16::prover::mem_util > after circuit 4 process id :2202017 | Physical MemUsage 221GB
+2021-12-02T17:42:55.121 INFO bellperson::groth16::prover::mem_util > before circuit 8 process id :2202017 | Physical MemUsage 225GB
+2021-12-02T17:42:55.126 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:42:55.210 INFO bellperson::groth16::prover::mem_util > sen: build 8th prover start  process id :2202017 | Physical MemUsage 226GB
+2021-12-02T17:42:58.320 INFO bellperson::groth16::prover > ZR: h_s end: 54.973678872s
+2021-12-02T17:42:58.320 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:42:58.689 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:42:58.761 INFO bellperson::groth16::prover::mem_util > sen: waiting 6th getparams process id :2202017 | Physical MemUsage 244GB
+2021-12-02T17:42:58.766 INFO bellperson::groth16::prover > ZR: get params end: 17.816348207s
+2021-12-02T17:42:58.826 INFO bellperson::groth16::prover::mem_util > sen: got 6th getparams process id :2202017 | Physical MemUsage 244GB
+2021-12-02T17:42:58.831 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:42:58.953 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:43:02.407 INFO bellperson::groth16::prover > ZR: l_s end: 4.087458667s
+2021-12-02T17:43:02.408 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:43:10.557 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:43:10.617 INFO bellperson::groth16::prover::mem_util > sen: waiting 6th getparams process id :2199212 | Physical MemUsage 310GB
+2021-12-02T17:43:10.621 INFO bellperson::groth16::prover > ZR: get params end: 17.286231859s
+2021-12-02T17:43:10.656 INFO bellperson::groth16::prover::mem_util > sen: got 6th getparams process id :2199212 | Physical MemUsage 310GB
+2021-12-02T17:43:10.660 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:43:10.790 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:43:15.975 INFO bellperson::groth16::prover > ZR: inputs end: 13.567707347s
+2021-12-02T17:43:17.741 INFO bellperson::groth16::prover::mem_util > after circuit 4 process id :2199212 | Physical MemUsage 262GB
+2021-12-02T17:43:18.242 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:43:18.242 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:43:18.242 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:43:18.242 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:43:18.242 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:43:18.242 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:43:19.714 INFO bellperson::groth16::prover::mem_util > before circuit 8 process id :2199212 | Physical MemUsage 262GB
+2021-12-02T17:43:19.718 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:43:19.761 INFO bellperson::groth16::prover::mem_util > sen: build 8th prover start  process id :2199212 | Physical MemUsage 262GB
+2021-12-02T17:43:25.166 INFO bellperson::groth16::prover > ZR: h_s end: 80.112224987s
+2021-12-02T17:43:25.166 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:43:29.924 INFO bellperson::groth16::prover > ZR: l_s end: 4.75809272s
+2021-12-02T17:43:29.924 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:43:35.350 INFO bellperson::groth16::prover > ZR: build provers  end: 136.209847379s
+2021-12-02T17:43:35.419 INFO bellperson::groth16::prover::mem_util > sen: build 7th prover end process id :2202017 | Physical MemUsage 254GB
+2021-12-02T17:43:35.422 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:43:35.463 INFO bellperson::groth16::prover::mem_util > sen: 7th getparams start  process id :2202017 | Physical MemUsage 254GB
+2021-12-02T17:43:35.509 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 254GB
+2021-12-02T17:43:46.368 INFO bellperson::groth16::prover > ZR: inputs end: 16.443318326s
+2021-12-02T17:43:46.720 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:43:46.720 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-02T17:43:46.720 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:43:46.759 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:43:46.759 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-02T17:43:46.759 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:43:48.561 INFO bellperson::groth16::prover::mem_util > after circuit 5 process id :2199212 | Physical MemUsage 217GB
+2021-12-02T17:43:48.604 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:43:48.604 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:43:48.604 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:43:48.966 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:43:49.025 INFO bellperson::groth16::prover::mem_util > sen: waiting 7th getparams process id :2202017 | Physical MemUsage 300GB
+2021-12-02T17:43:49.029 INFO bellperson::groth16::prover > ZR: get params end: 13.564099269s
+2021-12-02T17:43:49.076 INFO bellperson::groth16::prover::mem_util > sen: got 7th getparams process id :2202017 | Physical MemUsage 300GB
+2021-12-02T17:43:49.079 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:43:49.244 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:43:49.695 INFO bellperson::groth16::prover::mem_util > before circuit 9 process id :2199212 | Physical MemUsage 217GB
+2021-12-02T17:43:49.699 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:43:49.738 INFO bellperson::groth16::prover::mem_util > sen: build 9th prover start  process id :2199212 | Physical MemUsage 217GB
+2021-12-02T17:43:56.774 INFO bellperson::groth16::prover > ZR: build provers  end: 134.987822052s
+2021-12-02T17:43:56.836 INFO bellperson::groth16::prover::mem_util > sen: build 7th prover end process id :2199212 | Physical MemUsage 220GB
+2021-12-02T17:43:56.839 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:43:56.875 INFO bellperson::groth16::prover::mem_util > sen: 7th getparams start  process id :2199212 | Physical MemUsage 220GB
+2021-12-02T17:43:56.913 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 220GB
+2021-12-02T17:44:11.044 INFO bellperson::groth16::prover > ZR: a_s end: 60.384198681s
+2021-12-02T17:44:11.106 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:44:11.106 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:44:15.772 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:44:15.829 INFO bellperson::groth16::prover::mem_util > sen: waiting 7th getparams process id :2199212 | Physical MemUsage 259GB
+2021-12-02T17:44:15.833 INFO bellperson::groth16::prover > ZR: get params end: 18.955505663s
+2021-12-02T17:44:16.039 INFO bellperson::groth16::prover::mem_util > sen: got 7th getparams process id :2199212 | Physical MemUsage 259GB
+2021-12-02T17:44:16.053 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:44:16.154 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:44:16.290 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:44:16.290 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:44:16.290 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:44:18.205 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:44:18.205 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-02T17:44:18.205 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:44:22.047 INFO bellperson::groth16::prover > ZR: a_s end: 127.871750997s
+2021-12-02T17:44:26.515 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:44:26.516 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:44:27.517 INFO bellperson::groth16::prover > ZR: a_s end: 88.686422136s
+2021-12-02T17:44:28.851 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:44:28.851 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:44:34.847 INFO bellperson::groth16::prover > ZR: a_s end: 18.793393405s
+2021-12-02T17:44:34.889 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:44:34.889 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:44:43.548 INFO bellperson::groth16::prover > ZR: a_s end: 54.469450573s
+2021-12-02T17:44:43.593 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:44:43.593 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:44:44.129 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:44:44.129 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:44:44.129 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:44:44.129 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:44:44.129 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:44:44.129 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:44:48.727 INFO bellperson::groth16::prover > ZR: h_s end: 5.133751945s
+2021-12-02T17:44:48.727 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:44:51.957 INFO bellperson::groth16::prover > ZR: l_s end: 3.229815878s
+2021-12-02T17:44:51.957 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:45:04.831 INFO bellperson::groth16::prover > ZR: inputs end: 12.874537926s
+2021-12-02T17:45:06.629 INFO bellperson::groth16::prover::mem_util > after circuit 7 process id :2202017 | Physical MemUsage 232GB
+2021-12-02T17:45:07.082 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:45:07.082 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:07.082 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:07.082 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:07.082 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:07.082 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:45:07.111 INFO bellperson::groth16::prover::mem_util > before circuit 9 process id :2202017 | Physical MemUsage 232GB
+2021-12-02T17:45:07.115 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-02T17:45:07.147 INFO bellperson::groth16::prover::mem_util > sen: build 9th prover start  process id :2202017 | Physical MemUsage 232GB
+2021-12-02T17:45:11.958 INFO bellperson::groth16::prover > ZR: build provers  end: 136.83182231s
+2021-12-02T17:45:12.019 INFO bellperson::groth16::prover::mem_util > sen: build 8th prover end process id :2202017 | Physical MemUsage 234GB
+2021-12-02T17:45:12.022 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:45:12.058 INFO bellperson::groth16::prover::mem_util > sen: 8th getparams start  process id :2202017 | Physical MemUsage 234GB
+2021-12-02T17:45:12.094 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 234GB
+2021-12-02T17:45:18.972 INFO bellperson::groth16::prover > ZR: h_s end: 50.120653238s
+2021-12-02T17:45:18.972 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:45:26.102 INFO bellperson::groth16::prover > ZR: l_s end: 7.130705987s
+2021-12-02T17:45:26.102 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:45:28.700 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:45:28.795 INFO bellperson::groth16::prover::mem_util > sen: waiting 8th getparams process id :2202017 | Physical MemUsage 279GB
+2021-12-02T17:45:28.801 INFO bellperson::groth16::prover > ZR: get params end: 16.740359951s
+2021-12-02T17:45:28.837 INFO bellperson::groth16::prover::mem_util > sen: got 8th getparams process id :2202017 | Physical MemUsage 279GB
+2021-12-02T17:45:28.840 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:45:28.942 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:45:30.417 INFO bellperson::groth16::prover > ZR: build provers  end: 130.699061488s
+2021-12-02T17:45:30.477 INFO bellperson::groth16::prover::mem_util > sen: build 8th prover end process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:45:30.480 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:45:30.515 INFO bellperson::groth16::prover::mem_util > sen: 8th getparams start  process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:45:30.551 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 270GB
+2021-12-02T17:45:44.087 INFO bellperson::groth16::prover > ZR: inputs end: 17.984180483s
+2021-12-02T17:45:44.777 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:45:44.777 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:44.777 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:44.777 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:44.777 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:45:44.777 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:45:46.492 INFO bellperson::groth16::prover::mem_util > after circuit 6 process id :2202017 | Physical MemUsage 230GB
+2021-12-02T17:45:46.511 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:45:46.554 INFO bellperson::groth16::prover::mem_util > sen: waiting 8th getparams process id :2199212 | Physical MemUsage 316GB
+2021-12-02T17:45:46.559 INFO bellperson::groth16::prover > ZR: get params end: 16.040700669s
+2021-12-02T17:45:46.598 INFO bellperson::groth16::prover::mem_util > sen: got 8th getparams process id :2199212 | Physical MemUsage 316GB
+2021-12-02T17:45:46.602 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:45:46.686 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:45:52.290 INFO bellperson::groth16::prover > ZR: h_s end: 77.400657387s
+2021-12-02T17:45:52.290 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:45:56.832 INFO bellperson::groth16::prover > ZR: l_s end: 4.542177838s
+2021-12-02T17:45:56.832 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:46:02.829 INFO bellperson::groth16::prover > ZR: build provers  end: 133.130295334s
+2021-12-02T17:46:02.901 INFO bellperson::groth16::prover::mem_util > sen: build 9th prover end process id :2199212 | Physical MemUsage 319GB
+2021-12-02T17:46:02.908 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:46:02.944 INFO bellperson::groth16::prover::mem_util > sen: 9th getparams start  process id :2199212 | Physical MemUsage 319GB
+2021-12-02T17:46:02.988 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2199212 | Physical MemUsage 319GB
+2021-12-02T17:46:16.789 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:46:16.851 INFO bellperson::groth16::prover::mem_util > sen: waiting 9th getparams process id :2199212 | Physical MemUsage 361GB
+2021-12-02T17:46:16.857 INFO bellperson::groth16::prover > ZR: get params end: 13.908209413s
+2021-12-02T17:46:16.890 INFO bellperson::groth16::prover::mem_util > sen: got 9th getparams process id :2199212 | Physical MemUsage 361GB
+2021-12-02T17:46:16.895 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:46:17.049 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:46:20.927 INFO bellperson::groth16::prover > ZR: inputs end: 24.094894243s
+2021-12-02T17:46:23.035 INFO bellperson::groth16::prover::mem_util > after circuit 7 process id :2199212 | Physical MemUsage 311GB
+2021-12-02T17:46:23.477 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:46:23.478 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:23.478 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:23.478 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:23.478 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:23.478 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:46:29.698 INFO bellperson::groth16::prover > ZR: h_s end: 138.59231601s
+2021-12-02T17:46:29.698 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:46:32.727 INFO bellperson::groth16::prover > ZR: l_s end: 3.029358104s
+2021-12-02T17:46:32.727 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:46:45.317 INFO bellperson::groth16::prover > ZR: inputs end: 12.589628249s
+2021-12-02T17:46:45.896 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:46:45.896 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:45.896 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:45.896 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:45.896 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:46:45.896 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:46:47.225 INFO bellperson::groth16::prover::mem_util > after circuit 6 process id :2199212 | Physical MemUsage 259GB
+2021-12-02T17:46:55.800 INFO bellperson::groth16::prover > ZR: h_s end: 149.284954532s
+2021-12-02T17:46:55.801 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:47:02.102 INFO bellperson::groth16::prover > ZR: l_s end: 6.301862341s
+2021-12-02T17:47:02.103 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:47:15.242 INFO bellperson::groth16::prover > ZR: build provers  end: 128.126776641s
+2021-12-02T17:47:15.301 INFO bellperson::groth16::prover::mem_util > sen: build 9th prover end process id :2202017 | Physical MemUsage 241GB
+2021-12-02T17:47:15.305 INFO bellperson::groth16::prover > ZR: getparams start
+2021-12-02T17:47:15.340 INFO bellperson::groth16::prover::mem_util > sen: 9th getparams start  process id :2202017 | Physical MemUsage 241GB
+2021-12-02T17:47:15.378 INFO bellperson::groth16::prover::mem_util > input_assignment_len: 328 process id :2202017 | Physical MemUsage 241GB
+2021-12-02T17:47:17.573 INFO bellperson::groth16::prover > ZR: inputs end: 15.470359504s
+2021-12-02T17:47:18.071 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:47:18.071 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-02T17:47:18.071 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:47:18.095 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:47:18.095 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-02T17:47:18.095 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:47:19.874 INFO bellperson::groth16::prover::mem_util > after circuit 5 process id :2202017 | Physical MemUsage 189GB
+2021-12-02T17:47:20.097 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:47:20.097 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-02T17:47:20.097 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:47:31.874 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-02T17:47:31.926 INFO bellperson::groth16::prover::mem_util > sen: waiting 9th getparams process id :2202017 | Physical MemUsage 233GB
+2021-12-02T17:47:31.932 INFO bellperson::groth16::prover > ZR: get params end: 16.588130499s
+2021-12-02T17:47:31.962 INFO bellperson::groth16::prover::mem_util > sen: got 9th getparams process id :2202017 | Physical MemUsage 233GB
+2021-12-02T17:47:31.966 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-02T17:47:32.147 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-02T17:47:32.937 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-02T17:47:32.937 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-02T17:47:32.937 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-02T17:47:39.748 INFO bellperson::groth16::prover > ZR: a_s end: 82.852742039s
+2021-12-02T17:47:40.068 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:47:40.068 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:47:43.641 INFO bellperson::groth16::prover > ZR: a_s end: 117.038906604s
+2021-12-02T17:47:43.688 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:47:43.688 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:47:50.424 INFO bellperson::groth16::prover > ZR: a_s end: 141.583837497s
+2021-12-02T17:47:51.876 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:47:51.876 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:47:53.200 INFO bellperson::groth16::prover > ZR: a_s end: 21.234757144s
+2021-12-02T17:47:53.244 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-02T17:47:53.244 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-02T17:47:53.702 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:47:53.702 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:47:53.702 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:47:53.702 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:47:53.702 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:47:53.702 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:48:01.771 INFO bellperson::groth16::prover > ZR: h_s end: 8.527614151s
+2021-12-02T17:48:01.771 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:48:06.366 INFO bellperson::groth16::prover > ZR: l_s end: 4.594575891s
+2021-12-02T17:48:06.366 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:48:18.396 INFO bellperson::groth16::prover > ZR: inputs end: 12.030508122s
+2021-12-02T17:48:20.682 INFO bellperson::groth16::prover::mem_util > after circuit 9 process id :2202017 | Physical MemUsage 165GB
+2021-12-02T17:48:21.111 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:48:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:21.111 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:48:26.357 INFO bellperson::groth16::prover > ZR: h_s end: 34.480079257s
+2021-12-02T17:48:26.357 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:48:30.045 INFO bellperson::groth16::prover > ZR: l_s end: 3.687991444s
+2021-12-02T17:48:30.045 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:48:42.763 INFO bellperson::groth16::prover > ZR: inputs end: 12.717914912s
+2021-12-02T17:48:43.362 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:48:43.362 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:43.362 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:43.362 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:43.362 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:48:43.362 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:48:45.014 INFO bellperson::groth16::prover::mem_util > after circuit 8 process id :2202017 | Physical MemUsage 113GB
+2021-12-02T17:48:45.047 INFO bellperson::groth16::prover::mem_util > h_s, l_s, inputs completed process id :2202017 | Physical MemUsage 113GB
+2021-12-02T17:48:45.078 INFO bellperson::groth16::prover::mem_util > toke h_s process id :2202017 | Physical MemUsage 113GB
+2021-12-02T17:48:45.108 INFO bellperson::groth16::prover::mem_util > toke l_s process id :2202017 | Physical MemUsage 113GB
+2021-12-02T17:48:45.139 INFO bellperson::groth16::prover::mem_util > toke inputs process id :2202017 | Physical MemUsage 113GB
+2021-12-02T17:48:45.144 INFO bellperson::groth16::prover > ZR: proofs start
+2021-12-02T17:48:45.156 INFO bellperson::groth16::prover > ZR: proofs end: 11.858146ms
+2021-12-02T17:48:45.159 INFO filecoin_proofs::api::seal > snark_proof:finish
+2021-12-02T17:48:45.159 INFO filecoin_proofs::api::seal > verify_seal:start: SectorId(0)
+2021-12-02T17:48:45.159 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]-verifying-key
+2021-12-02T17:48:45.159 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]-verifying-key
+2021-12-02T17:48:45.159 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-02T17:48:45.159 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" exist
+2021-12-02T17:48:45.159 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" for verifying key
+2021-12-02T17:48:45.194 INFO storage_proofs_core::parameter_cache > read verifying key from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" 
+2021-12-02T17:48:45.212 INFO filecoin_proofs::api::seal > got verifying key (34359738368) while verifying seal
+2021-12-02T17:48:45.216 INFO filecoin_proofs::api::seal > verify_seal:finish: SectorId(0)
+2021-12-02T17:48:45.216 INFO filecoin_proofs::api::seal > seal_commit_phase2:finish: SectorId(0)
+2021-12-02T17:48:45.216 INFO filcrypto::proofs::api > seal_commit_phase2: finish
+2021-12-02T17:48:45.216+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:643	ZR: ffi C2 end:	{"sector": "0", "elapsed": 928.593551371}
+proof: 9456cc92b895fbd629bb46e50dfc9e7731c1f47905bf08dfb53c60924aa07be800ed2f79e867cc1c71e5e6b7c8d9b5f994c140897a1070c3a78a084ca8f895a7b8a7e89c91ad5d752f2d96bfe3fd7e301cde31d86e7dd0d2ed35c745153d46be020c8045056281d4bac91e426288efb134c93c1b3d7bc4976e37bc6538ccfc476aac6821f24662b4553906ad88a33cf39552754a80cb912021a58223fe8e627a7f6d09a4bec0067e111995384f3e812e0b2c91cbc1e6d6f20ef48ab52410a8a7a2cd038fa938a71f72cde709d18b8c8ec2b4831d3f93395968606a3565b18faaa3558d010c8e29a6d22ffa35f07829249334c333b3675cd7699e068894aec0a0f0b7813229453085e94b175daaa937767db504ceddcf822b4a4691878d656192172e4576bcce64705969e350f32a36f1bbf0c83e6b2936dc0b3ecb78f930b20270f74edc23f1db688f8de34d2939eb9cad627bd821b64274cee9bda894b04d1d6b9d0e4a9e2ce675d103e8df9e8c2f96215ed1d79ad74486a5d32bc6be8246e5a3b3048cf991cf2a75f018aa36f887cec3937ce5d1c7f495cbcee004c70e4ef4c25593c3ff0104cb355c92677560733a85c32400288699d7acefa7a4c5b978737ef3984ae393aa2fd3a96d5a63c0bcbf3cd1257cb26b6719f3f7ec1dfccaf59a13e1962aa9ed0f32f176e20432e3c4065bff9109a68a5731a22717c5b0302dc751a202cd68329e20e0339da7a127d3edb4a271506d781a3a66eb20e4669b93517216a8038961c2bf0804822fd790e0cec790b4ad07ba5c8ab9cf42e20d054d7ea609b91d94abad7c0e6a78b8b62ff7cc8022df95af1584c5a3a1f6fdf71d89ac85ea74916b2f01cd3c4f03baf0e5678ea9d143fd2bfed597b32d0d079394cf79294806d1f0cc26fecfbd426b38eeee569dbc984b1925cb873809191fc338c12f17bc1bc78c4d30a5e9dc153c5bd47702b377ef49ac10af773b5cdcecf0ec13425fd6c16c28b28c248024c68797dfcf0faa7bd2b0be2ef14debd98619dc21799ee3dd1f740117e8a9683aa0d499af1925dca7ea804fc22a1e559dfc2ef186621881548f323aeaffc3e8a5a4c8d4b7804eac11075c448bfa2c2266d6671be04090ebf265d9a4d5a9fc1f33eae836375a7985f209f3183fd69b4107c7773696547d5c452d1c1408eaed535ee61a448cf1617365f3ca3c697404c0a8c19d51e17a46121833f3d77fd325283b7831573597c55d45fe647114a5cd14978163597bfdab8f4ff22fc0182e1abfe9939f080f79f5a892f8acf38517e63ddb9357f99db7e77ef6b38833fdad275f2ee00c99fef632d0711ab53455d52d8fc7bf750250a066b070cb50a27371f37268679d4a08e3247d26488052ce459acaa3c4fe680ff3ebd50d99c43a257850d9efc592572ce2dbb71b9c0ae7fd61c8c0c01ee84b74c5f20d00b92884fef900373b105020585175111b8583f2e39695c02e1f01d65aab461857b63d1db7fcf6620da43f27643592f2fd356154a367a9f84a61409057ad8086cbd33fbe7434e2d60bb6d34925ba21908b5cdde9a54a14674d9bf152c8939e43b1bcf43cc89756a3b6c924dd8d44c7911cd34505027e77aa97d6d7b5ea58dda0d31d762a9e210c9ec64bfc095392b4d16bb8161a2f7aa8b2ac1e871f33a974d70bb734f42eec4e98e3cf9c3ef3f13f8df1140b2478fb592e3fc3c8c15b8bc7d524cc83e43db5191987dd20523d6aabb89c100d70cdd71d3b1deb85e123d34e117a65aab48bceda53af465031a037ffcf6b4c05cb2ebc8c7fa6f9168e4e784e14f8182f85245e15a49d8ce561bff3308293244916125cc755d716e79d5520720253fcdf4a179b72c2a3386165103579b5affaf43577a39df3a92f9d16bd21f2aa9071d0c03bf65de56f8815b6123ecc3ea87cb18c49c169856be7d3525eee0800a36b096fdd2d8e78e64c0272b9c7138c56e9c2512366a887cf5ad5e4258d7ee53ff6d158a9e08a36af933c304e2c67f7f1d7694a4ee4e60f3ab8e500233e440a5a16cbe1b417e180b98fe5e136622bc87241afd20abc4fffc50c26ca4a30f57e8f3202dbd20a2f6d6c8a5355d81b99aea4e629014b11d1593861456b451159e0a2341d82fa9858320b22285782640d78ba6117a86ae013a4d4ba6c60abdd99b03a24338c75c9a245ec5febee492eb7c658ea24224c4a674c5af6e3a3b5825cd8ea81042381abadcc847e9a95876c47900ce9fca062194fca6446d0fc8215f4cd2764c079e330e5271b00d1ecc0d357756572aca5550dec20e6dcf0d9bcf1110eb2d20e40f9b85ecf7a4ff70feb29b40d318b77c86dc88d0b98375746512281562e1a4749a669fb8b695b55d60ff7c8b9da01f02b372bd92ac9dcdb972049989ca822069ec9a43205c90b2ed5dda4371e98d541bdfab0c621e3c9fdf43ee8e482a00b838541f1125fabbcf057fb21a9eaf5a40b5621f9c9682c5e7a408d6cd28fe5c2e5e3d52bfca2311178b448c4ffa7ade1832712cbc804e73d2480c9582a66c7200d33cb6bcaaec78c1dfa0c11f4575f8dea90ffcdc17ac13d79df386db5095840fabd825d2dd2a214ac29fecb126553dd0a2d6e0b5b35c99366bb76d37fb9cc82498149201d27af55e2d207988daac9da1b86c106e2c0a025019022994551342734c07ad449c21b75edb42c0eb833dbc790c83ef84c8cf9da4ff1df0f08
+----
+results (v28) (34359738368)
+seal: commit phase 2: 15m28.593844397s (35.29 MiB/s)
+2021-12-02T17:48:48.298 INFO bellperson::groth16::prover > ZR: h_s end: 68.230067442s
+2021-12-02T17:48:48.298 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:48:51.280 INFO bellperson::groth16::prover > ZR: l_s end: 2.982345168s
+2021-12-02T17:48:51.281 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:49:10.413 INFO bellperson::groth16::prover > ZR: inputs end: 19.132480265s
+2021-12-02T17:49:12.713 INFO bellperson::groth16::prover::mem_util > after circuit 9 process id :2199212 | Physical MemUsage 191GB
+2021-12-02T17:49:13.119 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-02T17:49:13.119 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:49:13.119 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:49:13.119 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:49:13.119 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-02T17:49:13.119 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-02T17:49:17.839 INFO bellperson::groth16::prover > ZR: h_s end: 94.150367452s
+2021-12-02T17:49:17.839 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-02T17:49:21.025 INFO bellperson::groth16::prover > ZR: l_s end: 3.186832474s
+2021-12-02T17:49:21.025 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-02T17:49:33.874 INFO bellperson::groth16::prover > ZR: inputs end: 12.848371857s
+2021-12-02T17:49:35.762 INFO bellperson::groth16::prover::mem_util > after circuit 8 process id :2199212 | Physical MemUsage 139GB
+2021-12-02T17:49:35.794 INFO bellperson::groth16::prover::mem_util > h_s, l_s, inputs completed process id :2199212 | Physical MemUsage 139GB
+2021-12-02T17:49:35.821 INFO bellperson::groth16::prover::mem_util > toke h_s process id :2199212 | Physical MemUsage 139GB
+2021-12-02T17:49:35.846 INFO bellperson::groth16::prover::mem_util > toke l_s process id :2199212 | Physical MemUsage 139GB
+2021-12-02T17:49:35.872 INFO bellperson::groth16::prover::mem_util > toke inputs process id :2199212 | Physical MemUsage 139GB
+2021-12-02T17:49:35.876 INFO bellperson::groth16::prover > ZR: proofs start
+2021-12-02T17:49:35.888 INFO bellperson::groth16::prover > ZR: proofs end: 11.829ms
+2021-12-02T17:49:35.891 INFO filecoin_proofs::api::seal > snark_proof:finish
+2021-12-02T17:49:35.891 INFO filecoin_proofs::api::seal > verify_seal:start: SectorId(0)
+2021-12-02T17:49:35.891 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]-verifying-key
+2021-12-02T17:49:35.891 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]-verifying-key
+2021-12-02T17:49:35.892 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-02T17:49:35.892 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" exist
+2021-12-02T17:49:35.892 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" for verifying key
+2021-12-02T17:49:35.916 INFO storage_proofs_core::parameter_cache > read verifying key from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" 
+2021-12-02T17:49:35.934 INFO filecoin_proofs::api::seal > got verifying key (34359738368) while verifying seal
+2021-12-02T17:49:35.937 INFO filecoin_proofs::api::seal > verify_seal:finish: SectorId(0)
+2021-12-02T17:49:35.937 INFO filecoin_proofs::api::seal > seal_commit_phase2:finish: SectorId(0)
+2021-12-02T17:49:35.937 INFO filcrypto::proofs::api > seal_commit_phase2: finish
+2021-12-02T17:49:35.937+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:643	ZR: ffi C2 end:	{"sector": "0", "elapsed": 1048.781426396}
+proof: 8f1081ad2d571df709bef4cc5d9e7f05fa658ba982dc124309341f4ca2b4770bb7380c5a1f9bab2c13eeeb17763b7be98b2da0d1490c9c3d80375ee1393fd13fa5c2cf5337fba174e7635f81502633541da85d8c3d9c6da328bc68c9ccdf7d6705bb2c561125d9406ad1ee0cd07ada89d305756095c11d41a5f3a33686f2e8ff0c0acc2c46324f76465aaf4663998437b6d16c1fd7efd8d6d6f35ae12e7962ff0054ce903b62f42f349a7f8ca449dd950ccdcb8b9516479f2fc5b7dd0665af14b02a98861dcb2baff68e86c36a292dfa85c9d7d68b4814edb9a502b67bfc7cb0289246e05e415bf260230c85faee8952b35b264c55e1bb0b9e363a96b2317d72cb99c0464850663ab24d6bb2f0a41cfcb77d1eb9fa7521efc918a6cbe3e6b703086b4b167b912cdbde1c0c65a0fd4b37fd9e2993549f5d92a292325a3546fe8e47b8f56bab7509328524b5a19109060bb04a9ccf1de1cebed0f05e76491d0b19d1b1bfd03c42dcd9f36c1d4d43947288a0e6b5302be27c9712c9c6bec68a43cea71e175a0394b5ec9a3f241e483a84dce90dad7c34ace817aca2842dc91ba11a6a7fb189ba31a2b4b0e75bcbf6271337ae6ae8120198977377b3e511186647e5b8cfedf221811af764ce60d304c91ea985c9a126de919c07ab5da9e4f3fcd71e1225d79ed2a1e9610f4b65f0fc5a87a4467726b729d9c84bf7e3000f0f0b113133dcac25a79a96980353dad7f07a221fad1c93236da54c4e059ac04d1ee27f6fd7e1af8cb144d0d358820ba864bd303c1ae13da56cbf7b428f486ef2ad177a8ab20012496f6a0b020d578a80edddce10db781b7cbc595f2c301501f6378b9f0279af7f7f9282cee5ab77d4d416a9edbea879f01639cc39e33f7109d743609229b26992959b07c8bf0dfbd45752c68b8f4bc0344cd1c92abe29445edeef8bfe7c097e608e582d79e83be6f26f21b9615fb3679c1d57ed9df304784d11d2041940488b8e81984eb9268619a0f47a94c18386da4dfbe4e03cb2f5eebd6845d4b38fb69f804fb5d79e5802f104cf4753fefd9810a1881e6f9d8aeb7ee71864e3ec5d8603df8c7ae5e148622dd01dccb5c64ebe94dcffbb71f96d23c43175e508e68513044a6ae7c3e01d340c61b8380d96b388854461337c73b7a5ea7a58134846fe2e26318b6d8539a30a486ca7f3c349ab3db5d21a9686992d57119529bf97c3b309a03c18801176e30763b77f11675e73e409ffb4b960613478b3517ef6b9937428415d5ad956d14d8919d3a8a4d31b119386a62faee2495a357189896fc03cedde84abdbd1f5eb8385ca29e5b055be4a04e3a51ea871f15db8afddec6f7f275682f35f8773900e9333a3b0de3a214bb34e779f0086a3e6e603beda4d972b226ba9b0c7263a5f645b6582ab496e30d72ca9c126ef811817e3783fb9d4501ad8facf639766b6bf064e0003ab811bdb8b41cee28af4c1ef33d3cb998c59d8421bdc16257f287e74e25f04408b6fb081a036a7b9b606a65dd4a3b137b006d29baefcecc93b3b61712a186bf770edff9e8aa184f2990fc80daf02e18fd754a3cd034b63f7a29c3e1faa5ac961a53ea65842472e5aef68802b09b877bcda9032fd1fad8d978d38f97b2a12d2594fa3cbca366981e35073a42be3dcde0be55e890d7835184a6605f9832cf248e0414c54ffa939964db8eee7f621c17141e57537a44c089d605fc9db5947b223060c87ca9f275882c3adbcf454a7ebbf1b4a5187f4ea8a080a6cc16eedf435c7e0933108a41d9b9806272be09c7024a537309008064881056b9254f7a6967a6a57de48316a2124a6d0fff35a7d38de369e09369e355b63873f487697924efeb24933a1152f071969afbe28df90dd11395fedf2ed91530498da87fcc90fd24c75862eca155f37b3681f403066af7adbd06ede6f88008dc0bc7586f67f7e1db215bd7ea0ca94b20994441fef87f184185428154341ac12489236f31dadba2617d04c95f38fd0a79ee2e8a553d99c2ab4d802e19b74cf27f10257a506ec0b73b7fca0df537402903f8a7090aace7381083a68508e7b4acfe67063d0fb7b0416b5c7cd8ef2b0d2914b989c74a863fbf97845eb6321fcb60e87e89f922bce085b0adfdc1a4704481c8615a6a9d621f66716707e5f3256cc7d03816ac37a9e7f762eda8a0e04c7e4a69e2af98bd657d97f35bffe8bc8ac8d47bff3866f798ec4d00dfa867962ab888785af4d9d64561f60aa932696ee7370fef556bfad7d63b554c2ab58f1c3860f8d8ecd7aeda9bad215b9fc20e2938be6527b034aa934b287cbeec51e9eb334aa170c4de2b0d839729a0ba1e682fab29c51f0e01d4e6da74c1afe1215f1239f9154908731ba92583f89ce536642d4e90e863cd4e90cd7cb8ba7ba7591e51e828d9a6f20b4430e6ab912aed23f4e9e5f95187bb89d6e7603f8ec92508d256c3f8896c1d172d79173b6a5406d0638f844462feeb52fc9641e1c5f932d3db2353e1369d7af61658e90f94713b5bed057512a243f609d9b00b89d5be54890210b0925d538eb47a19a529742dd56b18eab73cf0ba610123d0fafa65831a3e8154b1a04a3c877b999cc576d9c067dee67c21153635d8674cd77d36d801a2543653569bb9f78a22d741f47ecb9246f870317de39a82d504b4618da710cc002f8a3b09e98f2cc7acbddaa520e90b20d383e644da96d52
+----
+results (v28) (34359738368)
+seal: commit phase 2: 17m28.781643991s (31.24 MiB/s)

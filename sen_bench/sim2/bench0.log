@@ -1,0 +1,279 @@
+--------------------开始测试-------------------------------
+2021-12-06T12:02:52.833+0800	INFO	lotus-bench	lotus-bench/main.go:119	Starting lotus-bench
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2021-12-06T12:02:53.084+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2021-12-06T12:02:53.085+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2021-12-06T12:02:53.091+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2021-12-06T12:02:53.092+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2021-12-06T12:02:53.358+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.params is ok
+2021-12-06T12:02:53.508+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2021-12-06T12:04:01.685+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params is ok
+2021-12-06T12:04:17.963+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.params is ok
+2021-12-06T12:04:17.963+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+2021-12-06T12:04:17.963+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:625	ZR: ffi C2 start
+2021-12-06T12:04:17.979 INFO filcrypto::proofs::api > seal_commit_phase2: start
+2021-12-06T12:04:18.065 INFO filecoin_proofs::api::seal > seal_commit_phase2:start: SectorId(0)
+2021-12-06T12:04:18.066 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]
+2021-12-06T12:04:18.066 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]
+2021-12-06T12:04:18.066 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-06T12:04:18.066 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" exist
+2021-12-06T12:04:18.066 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" for parameters
+2021-12-06T12:04:20.264 INFO storage_proofs_core::parameter_cache > read parameters from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" 
+2021-12-06T12:04:20.265 INFO filecoin_proofs::api::seal > got groth params (34359738368) while sealing
+2021-12-06T12:04:20.265 INFO filecoin_proofs::api::seal > snark_proof:start
+2021-12-06T12:04:20.282 INFO bellperson::groth16::prover > Bellperson 0.16.3 sen_dev is being used! circuit nums: 10
+2021-12-06T12:04:20.407 INFO bellperson::groth16::prover::mem_util > before compute process id :3816410 | Physical MemUsage 7GB
+2021-12-06T12:04:20.436 INFO bellperson::groth16::prover::mem_util > before run pool scope process id :3816410 | Physical MemUsage 7GB
+2021-12-06T12:04:20.439 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:04:20.439 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:04:20.439 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:04:20.439 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:04:20.439 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:06:08.953 INFO bellperson::groth16::prover > ZR: build provers  end: 108.514569344s
+2021-12-06T12:06:09.066 INFO bellperson::groth16::prover > ZR: build provers  end: 108.627464728s
+2021-12-06T12:06:09.152 INFO bellperson::groth16::prover > ZR: build provers  end: 108.713626167s
+2021-12-06T12:06:09.202 INFO bellperson::groth16::prover > ZR: build provers  end: 108.762829259s
+2021-12-06T12:06:09.298 INFO bellperson::groth16::prover > ZR: build provers  end: 108.859262289s
+2021-12-06T12:08:09.596 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:08:09.767 INFO bellperson::gpu::locks > GPU is available for FFT!
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+2021-12-06T12:08:10.152 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:08:10.152 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-06T12:08:10.152 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:08:11.775 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:08:11.978 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:08:12.368 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:08:12.368 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-06T12:08:12.368 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:08:12.396 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:08:12.605 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:08:22.352 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:08:22.569 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:08:23.833 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:08:23.948 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:08:37.767 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:08:37.767 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-06T12:08:37.767 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:08:37.773 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:08:37.774 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-06T12:08:37.774 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:08:44.172 INFO bellperson::groth16::prover > ZR: a_s end: 32.396727376s
+2021-12-06T12:08:48.279 INFO bellperson::groth16::prover > ZR: a_s end: 38.682953354s
+2021-12-06T12:09:05.235 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:09:05.235 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:09:05.346 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:09:05.346 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:09:06.618 INFO bellperson::groth16::prover > ZR: a_s end: 54.222311831s
+2021-12-06T12:09:10.054 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:09:10.055 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-06T12:09:10.055 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:09:22.727 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:09:22.727 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:09:24.737 INFO bellperson::groth16::prover > ZR: a_s end: 62.384206513s
+2021-12-06T12:09:25.864 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:09:25.864 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:09:49.539 INFO bellperson::groth16::prover > ZR: a_s end: 85.705083514s
+2021-12-06T12:09:49.584 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:09:49.584 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:11:13.711 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:11:13.711 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:13.711 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:13.711 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:13.711 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:13.711 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:11:18.926 INFO bellperson::groth16::prover > ZR: h_s end: 89.341353055s
+2021-12-06T12:11:18.926 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:11:22.852 INFO bellperson::groth16::prover > ZR: l_s end: 3.926231495s
+2021-12-06T12:11:22.852 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:11:37.589 INFO bellperson::groth16::prover > ZR: inputs end: 14.7371055s
+2021-12-06T12:11:38.192 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:11:38.193 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:38.193 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:38.193 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:38.193 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:11:38.193 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:11:38.475 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:11:49.528 INFO bellperson::groth16::prover > ZR: h_s end: 146.801367383s
+2021-12-06T12:11:49.528 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:11:53.474 INFO bellperson::groth16::prover > ZR: l_s end: 3.94531479s
+2021-12-06T12:11:53.474 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:12:06.193 INFO bellperson::groth16::prover > ZR: inputs end: 12.719284905s
+2021-12-06T12:12:06.476 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:12:06.849 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:12:06.849 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:12:06.849 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:12:06.849 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:12:06.849 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:12:06.849 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:12:16.510 INFO bellperson::groth16::prover > ZR: h_s end: 170.646214108s
+2021-12-06T12:12:16.510 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:12:26.747 INFO bellperson::groth16::prover > ZR: l_s end: 10.237165713s
+2021-12-06T12:12:26.748 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:12:48.667 INFO bellperson::groth16::prover > ZR: inputs end: 21.91936676s
+2021-12-06T12:12:50.478 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:13:16.356 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:13:16.356 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:16.356 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:16.356 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:16.356 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:16.356 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:13:30.161 INFO bellperson::groth16::prover > ZR: h_s end: 264.925297719s
+2021-12-06T12:13:30.161 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:13:34.116 INFO bellperson::groth16::prover > ZR: l_s end: 3.955698976s
+2021-12-06T12:13:34.117 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:13:42.313 INFO bellperson::groth16::prover > ZR: build provers  end: 123.838161862s
+2021-12-06T12:13:46.001 INFO bellperson::groth16::prover > ZR: inputs end: 11.884842196s
+2021-12-06T12:13:46.260 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:13:46.377 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:13:46.498 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:13:46.655 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:13:46.655 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:46.655 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:46.655 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:46.655 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:13:46.655 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:13:54.204 INFO bellperson::groth16::prover > ZR: h_s end: 288.857488689s
+2021-12-06T12:13:54.204 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:13:57.471 INFO bellperson::groth16::prover > ZR: l_s end: 3.266784081s
+2021-12-06T12:13:57.471 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:14:07.453 INFO bellperson::groth16::prover > ZR: build provers  end: 120.976930488s
+2021-12-06T12:14:09.864 INFO bellperson::groth16::prover > ZR: inputs end: 12.39356465s
+2021-12-06T12:14:10.499 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-06T12:14:11.114 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:14:11.202 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:14:44.594 INFO bellperson::groth16::prover > ZR: build provers  end: 114.115828909s
+2021-12-06T12:14:48.028 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:14:48.119 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:15:37.172 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:15:37.172 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-06T12:15:37.172 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:15:37.206 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:15:37.206 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-06T12:15:37.206 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:15:39.947 INFO bellperson::groth16::prover > ZR: build provers  end: 113.449441275s
+2021-12-06T12:15:45.875 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:15:46.031 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:16:04.454 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:16:04.454 INFO bellperson::gpu::fft > FFT: Device 25:00: GeForce RTX 3090
+2021-12-06T12:16:04.454 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:16:09.423 INFO bellperson::groth16::prover > ZR: a_s end: 81.395480978s
+2021-12-06T12:16:10.412 INFO bellperson::groth16::prover > ZR: build provers  end: 119.913281149s
+2021-12-06T12:16:15.805 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-06T12:16:15.935 INFO bellperson::gpu::locks > GPU is available for FFT!
+2021-12-06T12:16:19.863 INFO bellperson::groth16::prover > ZR: a_s end: 128.748121439s
+2021-12-06T12:16:23.427 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:16:23.427 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:16:23.650 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:16:23.650 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:16:25.472 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:16:25.472 INFO bellperson::gpu::fft > FFT: Device 81:00: GeForce RTX 3090
+2021-12-06T12:16:25.472 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:16:37.233 INFO bellperson::groth16::prover > ZR: a_s end: 170.972813476s
+2021-12-06T12:16:37.848 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-06T12:16:37.848 INFO bellperson::gpu::fft > FFT: Device c1:00: GeForce RTX 3090
+2021-12-06T12:16:37.848 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-06T12:16:50.018 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:16:50.018 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:16:50.700 INFO bellperson::groth16::prover > ZR: a_s end: 34.894881773s
+2021-12-06T12:16:51.500 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:16:51.500 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:17:01.169 INFO bellperson::groth16::prover > ZR: a_s end: 75.293641396s
+2021-12-06T12:17:01.216 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-06T12:17:01.216 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-06T12:18:33.882 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:18:33.882 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:18:33.882 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:18:33.882 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:18:33.882 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:18:33.882 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:18:41.511 INFO bellperson::groth16::prover > ZR: h_s end: 110.011053603s
+2021-12-06T12:18:41.511 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:18:45.271 INFO bellperson::groth16::prover > ZR: l_s end: 3.760038319s
+2021-12-06T12:18:45.271 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:18:59.327 INFO bellperson::groth16::prover > ZR: inputs end: 14.055547137s
+2021-12-06T12:19:27.820 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:19:27.820 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:27.820 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:27.820 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:27.820 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:27.820 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:19:37.671 INFO bellperson::groth16::prover > ZR: h_s end: 156.45572454s
+2021-12-06T12:19:37.671 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:19:40.923 INFO bellperson::groth16::prover > ZR: l_s end: 3.251715997s
+2021-12-06T12:19:40.923 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:19:56.792 INFO bellperson::groth16::prover > ZR: inputs end: 15.869037026s
+2021-12-06T12:19:57.417 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:19:57.417 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:57.417 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:57.417 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:57.417 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:19:57.417 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:20:04.847 INFO bellperson::groth16::prover > ZR: h_s end: 194.828413331s
+2021-12-06T12:20:04.847 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:20:09.337 INFO bellperson::groth16::prover > ZR: l_s end: 4.489664937s
+2021-12-06T12:20:09.337 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:20:23.408 INFO bellperson::groth16::prover > ZR: inputs end: 14.071289531s
+2021-12-06T12:20:24.040 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:20:24.040 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:20:24.040 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:20:24.040 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:20:24.040 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:20:24.040 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:20:31.733 INFO bellperson::groth16::prover > ZR: h_s end: 248.305111919s
+2021-12-06T12:20:31.733 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:20:35.151 INFO bellperson::groth16::prover > ZR: l_s end: 3.418882363s
+2021-12-06T12:20:35.152 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:20:47.278 INFO bellperson::groth16::prover > ZR: inputs end: 12.126320024s
+2021-12-06T12:21:14.052 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-06T12:21:14.052 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:21:14.052 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:21:14.052 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:21:14.052 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-06T12:21:14.052 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-06T12:21:20.617 INFO bellperson::groth16::prover > ZR: h_s end: 296.967044387s
+2021-12-06T12:21:20.617 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-06T12:21:26.233 INFO bellperson::groth16::prover > ZR: l_s end: 5.615627339s
+2021-12-06T12:21:26.233 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-06T12:21:40.482 INFO bellperson::groth16::prover > ZR: inputs end: 14.249359197s
+2021-12-06T12:21:42.996 INFO bellperson::groth16::prover::mem_util > h_s, l_s, inputs completed process id :3816410 | Physical MemUsage 51GB
+2021-12-06T12:21:43.027 INFO bellperson::groth16::prover::mem_util > toke h_s process id :3816410 | Physical MemUsage 51GB
+2021-12-06T12:21:43.057 INFO bellperson::groth16::prover::mem_util > toke l_s process id :3816410 | Physical MemUsage 51GB
+2021-12-06T12:21:43.116 INFO bellperson::groth16::prover::mem_util > toke inputs process id :3816410 | Physical MemUsage 51GB
+2021-12-06T12:21:43.123 INFO bellperson::groth16::prover > ZR: proofs start
+2021-12-06T12:21:43.133 INFO bellperson::groth16::prover > ZR: proofs end: 10.243875ms
+2021-12-06T12:21:43.137 INFO filecoin_proofs::api::seal > snark_proof:finish
+2021-12-06T12:21:43.137 INFO filecoin_proofs::api::seal > verify_seal:start: SectorId(0)
+2021-12-06T12:21:43.137 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]-verifying-key
+2021-12-06T12:21:43.137 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]-verifying-key
+2021-12-06T12:21:43.137 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-06T12:21:43.137 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" exist
+2021-12-06T12:21:43.138 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" for verifying key
+2021-12-06T12:21:43.161 INFO storage_proofs_core::parameter_cache > read verifying key from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" 
+2021-12-06T12:21:43.184 INFO filecoin_proofs::api::seal > got verifying key (34359738368) while verifying seal
+2021-12-06T12:21:43.189 INFO filecoin_proofs::api::seal > verify_seal:finish: SectorId(0)
+2021-12-06T12:21:43.189 INFO filecoin_proofs::api::seal > seal_commit_phase2:finish: SectorId(0)
+2021-12-06T12:21:43.189 INFO filcrypto::proofs::api > seal_commit_phase2: finish
+2021-12-06T12:21:43.189+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:643	ZR: ffi C2 end:	{"sector": "0", "elapsed": 1045.225570034}
+proof: 8aea4ab8492e34d44406ed5453983ca4826047558a55086b44ec2960a40a45d28b004195b156f9b448cfa9fb3773769fa6ec7927cf782e19189fc5968c05963202e2f8a6fe7e71493d815ca7a871e66f50614c4c6a8cdc6cbf7a8b46488b863b0d3059814da96f69b001a08323ab1330982862ad0679a42678532d7c57e59353f850373587fd6d7b7bc93bd64dabed8180387992da439b56418099cc3c5d5bfd4f75ad46e8c457fe29942f746c66f138e3ffbbc6d585f2d124ef75ec0dbfb2cf8ce77eed297a1388277e83b5d988ba001e6b7d4de26d96a89d4a8a973fe13d83a9302f94083fe82b39179ab13769f6bc97b2a99e28aa0ce9b4cd736ad534674b827197ef610354b1e51bbf08d14d46dbc6057029fba4b8c9c32c77ff0b59eb5b0f33907b417692b16b094ae2ec8a9724223a3afe7c7bab010e4464ef547c80b660dd5c7dad66f33b376cdee15d8fbf25a4ceb26b8fd16d9bd0d6587350d8ee68355536311076694dccc43377b4dea1677e77c0fd87ed11977be7ab4d3d36effab6cfc9ee3fbd3d834b28ed4cb18560e1b546f14d2a4047f4b4ea770dc300e3b9ffc9c52ebd2a5045724b03ec1a4a45f0aac160f2e47fc886c30d6d3c87469130ddb7cc322fb14dd7721cd021df886bbaf51de463a3168ffd449b708f025defe61003fa4f4f4b7577f42301ea9d303c3d64ff7eea68ea8168ead85e682d60dc62dfc03e6d59163cd5c5bd869ffdd96378b1f09e74aa7c5208dfdf2bf74e5e76405fd06e36839cb5513d5bdbd831f5281fb7cd4b05d1b4d79aa64e298faf24d2fc894deae8f4460268e4d039dd54340db13044d93195ea82603fcece23118610b800ca4f2b4d94e0e2bd5df3bbdf8d07a0a43e949c16206f3bec2b4f0b0eac22a42a453565c23642f30b18dbef755ef69361dc713608a12bfc7fca2f714cd961df0a425b553ca4d4452c64c1208fb1c4d525d0e341d18b12c4c97d52693d600efb182f539ad472a1f5e4dd225800ca4c9aaa7e3a09edc00bd9f242b70f62add2b229ed2a5a5b7770326ae91351a78767e725923d3f16492625975d035ba417be1db7d6388519ad11a271a18d00df3c8e3688466351baf25abaee69136e070aee6373e1f50e1dfaeec00e08be10e94ea23cac41bd491fc9c21f83b5f1698646b5391d6e0e0545ffc8a1f303612ce36c345b5c501b05837a991a5c7244b6a593ad8c12cd967f63dee243fa0bcbcde895349e9490aa4d2374b2c45144582cb79590b2dc82054d9de02aa4b328b284b1f0cc328711105d914d94492b1f34c52481c396dd3a56f960abd05f8b2b12e5dc841dc395e15ff87e7ba9ef5204c17339dd29bbab12e3eacd1187cfd7c55d55d157183ec4e7fed36506d174cd8bd22a24a1e8b737e44cb5eb03e5cb6cc046ff0e6575c3937c9af138f36857fc42ed6cbdd8284132cf462761c7e88b2e4505bc2330224bc64fa928a6387742683dfdd6e26230081099bd08fe2146597f0020ff22cf97cd59f1b1c1601574c21baae63e54ddec6b28178a42934edeb39a864107e6346db4849bd8df223f966257b04c912f10035a5d6d44e1e7c3318915dc8cdaffea0c3b2f3c57ba3a40f2c1cfae549641a817b78edf2d67212e69845161b2a5d5f70f549ba219695acd8c0fa2415c624150f0e3cfb4cf01e9c1d75b5d0496c7d35186a5b9b66671a0edc4915e38cf8064a2fad4d0a4f6ed088b9ae448bfea4bb9c8e18cf43662f8d6a38f04369fcdf060000c4f1754c14b8534a25cd7b1bbee70f1c00b808c6ef21bae5ab62ef3c7895c100ab7d489719cdb993d1b9c7cd22ca8c75fe0b473759875ef48e51993a4eb3a951e638545ad9a774304ee309cccd7d8c00a944e5d824bd434c72a836f51b4340973388998938a0352db0e1ce04c61627524c6e01ac6c9c4f01a8342b85c21297b8409d81029efb77eefbf2eb9cc46d468f1cc85e51529d52ff09430541c2dec8e09667dc3cd4b96bc05e244f32a3d5266114c82f2b7e901f22e621dde11f62cd2480600510d2608b0a2b1aebac81a3d43ce2df6f49d9972a2b6ee3dfda859c09809642818f9672916e87f992b4484795fa52a90579952c2c1f28049151d560e2fdcf6ad95cd7e4999b07432ec01f5549dd470251af4f684d40a7d4adc3e83a0567820b5bb955b09176ddadeadd414cc3cdbe8fa6ce392f1ac7aaced54b193132d9172814bb104578f50a3a58af0306f7240438bddccea0cbc4b83e3b7f1d55af3bd1bcefb8dd34522b5410eeaf18a336a66e1c6c420d06ddfc78e4e27bc667a9834e416f83d21a03549a0731793b44fcd61ab795c52a49a6367aa7fe45c5b57273285d6c5f9f88446206353c866fa041376c3b113519068fd3ba2ed1f9bebd1c838b1b2a1654eb3a75e96fca5d86e7dfb72f6580f3b26c6c03f2ad6e3224de203126bae3d77521f527db208f0c3e81aff8a17c858ce2f09957b97dc498875b8d622f9b01cf43badaf32336e58be59b02a40b3b20edf0a37347f61c16e70a6082e834d6920ef11b01d26069db0cd1b7097ea1ac3a44e3a418866d9be6da4b44a8ffbef152ce2ad064bbf00f0949b95e861d0a6eef96399615da0638ba7c7b294e0a905d103d77edde8bc1320011edb85e7068d98a42c8c4461cf4f89d81f0ab07269a7f9c56966e8b010df1930d436f39e87e208a733c9b04a1bc5302d6d746dd3cbcb
+----
+results (v28) (34359738368)
+seal: commit phase 2: 17m25.225904894s (31.35 MiB/s)

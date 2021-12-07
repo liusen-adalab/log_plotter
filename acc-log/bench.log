@@ -1,0 +1,249 @@
+--------------------开始测试-------------------------------
+2021-12-01T18:06:25.481+0800	INFO	lotus-bench	lotus-bench/main.go:119	Starting lotus-bench
+2021-12-01T18:06:25.729+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2021-12-01T18:06:25.730+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2021-12-01T18:06:25.730+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2021-12-01T18:06:25.730+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2021-12-01T18:06:25.729+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2021-12-01T18:06:25.730+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2021-12-01T18:06:25.736+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2021-12-01T18:06:25.737+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2021-12-01T18:06:25.737+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2021-12-01T18:06:25.730+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2021-12-01T18:06:25.736+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2021-12-01T18:06:25.738+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2021-12-01T18:06:25.736+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2021-12-01T18:06:25.742+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2021-12-01T18:06:25.745+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2021-12-01T18:06:26.031+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.params is ok
+2021-12-01T18:06:26.168+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2021-12-01T18:07:32.509+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params is ok
+2021-12-01T18:07:51.251+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /home/ceshi/.lotusworker/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.params is ok
+2021-12-01T18:07:51.252+0800	INFO	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+2021-12-01T18:07:51.252+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:625	ZR: ffi C2 start
+2021-12-01T18:07:51.260 INFO filcrypto::proofs::api > seal_commit_phase2: start
+2021-12-01T18:07:51.343 INFO filecoin_proofs::api::seal > seal_commit_phase2:start: SectorId(0)
+2021-12-01T18:07:51.343 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]
+2021-12-01T18:07:51.343 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]
+2021-12-01T18:07:51.343 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-01T18:07:51.343 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" exist
+2021-12-01T18:07:51.343 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" for parameters
+2021-12-01T18:07:53.406 INFO storage_proofs_core::parameter_cache > read parameters from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.params" 
+2021-12-01T18:07:53.407 INFO filecoin_proofs::api::seal > got groth params (34359738368) while sealing
+2021-12-01T18:07:53.407 INFO filecoin_proofs::api::seal > snark_proof:start
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > size of circuit: 384
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > circuits len: 10
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > size of params: 8
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > r_s len: 10
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > s_s len: 10
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > priority: false
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > Bellperson 0.16.3 is being used!
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > ZR: starting proof timer
+2021-12-01T18:07:53.426 INFO bellperson::groth16::prover > ZR: build provers start
+2021-12-01T18:07:53.547 INFO bellperson::groth16::prover::bench_util > starting compute provers | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 7.06GB
+2021-12-01T18:10:03.985 INFO bellperson::groth16::prover::bench_util > computation of provers completed | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.63GB
+2021-12-01T18:10:03.988 INFO bellperson::groth16::prover > ZR: build provers  end: 130.562244554s
+2021-12-01T18:10:03.988 INFO bellperson::groth16::prover > ZR: get params start
+2021-12-01T18:10:04.009 INFO bellperson::groth16::prover::bench_util > get params start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.63GB
+2021-12-01T18:10:04.260 INFO bellperson::groth16::prover::bench_util > getting param l | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.65GB
+2021-12-01T18:10:04.260 INFO bellperson::groth16::prover::bench_util > getting param bg1 | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.65GB
+2021-12-01T18:10:04.261 INFO bellperson::groth16::prover::bench_util > getting param a | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.65GB
+2021-12-01T18:10:04.262 INFO bellperson::groth16::prover::bench_util > getting param bg2 | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.65GB
+2021-12-01T18:10:04.262 INFO bellperson::groth16::prover::bench_util > getting param h | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.65GB
+2021-12-01T18:10:04.268 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.269 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.269 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.270 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.270 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.271 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.271 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.271 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.272 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.272 INFO bellperson::groth16::prover::bench_util > computing input_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.64GB
+2021-12-01T18:10:04.418 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.95GB
+2021-12-01T18:10:04.420 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.97GB
+2021-12-01T18:10:04.424 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.97GB
+2021-12-01T18:10:04.437 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.97GB
+2021-12-01T18:10:04.437 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.99GB
+2021-12-01T18:10:04.437 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.94GB
+2021-12-01T18:10:04.445 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.98GB
+2021-12-01T18:10:04.468 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.96GB
+2021-12-01T18:10:04.469 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.97GB
+2021-12-01T18:10:04.478 INFO bellperson::groth16::prover::bench_util > computing, aux_assignment | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 162.99GB
+2021-12-01T18:10:07.919 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 172.49GB
+2021-12-01T18:10:08.022 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 172.75GB
+2021-12-01T18:10:08.060 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 172.83GB
+2021-12-01T18:10:18.084 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 194.53GB
+2021-12-01T18:10:30.034 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 235.22GB
+2021-12-01T18:10:41.980 INFO bellperson::groth16::prover::bench_util > got param bg1 | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 263.35GB
+2021-12-01T18:10:45.116 INFO bellperson::groth16::prover::bench_util > got param bg2 | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 270.25GB
+2021-12-01T18:10:50.471 INFO bellperson::groth16::prover::bench_util > got param a | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 281.58GB
+2021-12-01T18:10:50.701 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 282.25GB
+2021-12-01T18:10:50.840 INFO bellperson::groth16::prover::bench_util > got param h | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 282.50GB
+2021-12-01T18:10:52.596 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.21GB
+2021-12-01T18:10:53.030 INFO bellperson::groth16::prover::bench_util > got param l | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.39GB
+2021-12-01T18:10:53.411 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.39GB
+2021-12-01T18:10:54.132 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.39GB
+2021-12-01T18:10:54.413 INFO bellperson::groth16::prover::bench_util > assgnments completed! | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.39GB
+2021-12-01T18:10:54.422 INFO bellperson::groth16::prover > ZR: waiting params...
+2021-12-01T18:10:54.422 INFO bellperson::groth16::prover > ZR: get params end: 50.410438291s
+2021-12-01T18:10:54.450 INFO bellperson::groth16::prover::bench_util > get params start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.32GB
+2021-12-01T18:10:54.453 INFO bellperson::groth16::prover > ZR: a_s start
+2021-12-01T18:10:54.486 INFO bellperson::groth16::prover::bench_util > a_s start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.32GB
+2021-12-01T18:10:54.607 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.61GB
+2021-12-01T18:10:54.611 INFO bellperson::gpu::locks > GPU is available for FFT!
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+failed to open /dev/dri/renderD128: Permission denied
+failed to open /dev/dri/renderD129: Permission denied
+failed to open /dev/dri/renderD130: Permission denied
+failed to open /dev/dri/renderD131: Permission denied
+2021-12-01T18:10:54.837 INFO bellperson::gpu::fft > FFT: 1 working device(s) selected.
+2021-12-01T18:10:54.837 INFO bellperson::gpu::fft > FFT: Device 01:00: GeForce RTX 3090
+2021-12-01T18:10:54.837 INFO bellperson::domain > GPU FFT kernel instantiated!
+2021-12-01T18:11:01.683 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.73GB
+2021-12-01T18:11:08.968 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 283.73GB
+2021-12-01T18:11:22.884 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 276.09GB
+2021-12-01T18:11:27.460 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 276.09GB
+2021-12-01T18:11:32.104 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 276.09GB
+2021-12-01T18:11:41.301 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 268.44GB
+2021-12-01T18:11:49.705 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 268.45GB
+2021-12-01T18:11:56.501 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 268.45GB
+2021-12-01T18:12:09.983 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 260.79GB
+2021-12-01T18:12:17.666 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 260.79GB
+2021-12-01T18:12:25.242 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 260.79GB
+2021-12-01T18:12:37.230 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 253.14GB
+2021-12-01T18:12:45.260 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 253.14GB
+2021-12-01T18:12:52.686 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 253.14GB
+2021-12-01T18:13:04.921 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 245.50GB
+2021-12-01T18:13:12.241 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 245.50GB
+2021-12-01T18:13:19.536 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 245.50GB
+2021-12-01T18:13:31.136 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 237.85GB
+2021-12-01T18:13:39.108 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 237.86GB
+2021-12-01T18:13:46.480 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 237.86GB
+2021-12-01T18:13:59.127 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 230.20GB
+2021-12-01T18:14:08.145 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 230.20GB
+2021-12-01T18:14:15.397 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 230.20GB
+2021-12-01T18:14:28.815 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 222.56GB
+2021-12-01T18:14:34.572 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 222.56GB
+2021-12-01T18:14:40.047 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 222.56GB
+2021-12-01T18:14:50.863 INFO bellperson::groth16::prover::bench_util > a fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 214.90GB
+2021-12-01T18:14:59.613 INFO bellperson::groth16::prover::bench_util > b fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 214.91GB
+2021-12-01T18:15:08.519 INFO bellperson::groth16::prover::bench_util > c fft | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 214.91GB
+2021-12-01T18:15:20.475 INFO bellperson::groth16::prover > ZR: a_s end: 266.022179559s
+2021-12-01T18:15:20.530 INFO bellperson::groth16::prover::bench_util > a_s end | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 206.91GB
+2021-12-01T18:15:20.589 INFO bellperson::groth16::prover > ZR: h_s start
+2021-12-01T18:15:20.615 INFO bellperson::groth16::prover::bench_util > h_s start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 206.84GB
+2021-12-01T18:15:20.619 INFO bellperson::gpu::locks > GPU is available for Multiexp!
+2021-12-01T18:15:21.111 INFO bellperson::gpu::multiexp > Multiexp: 4 working device(s) selected. (CPU utilization: 0)
+2021-12-01T18:15:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 01:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-01T18:15:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 25:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-01T18:15:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device 81:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-01T18:15:21.111 INFO bellperson::gpu::multiexp > Multiexp: Device c1:00: GeForce RTX 3090 (Chunk-size: 13531484)
+2021-12-01T18:15:21.111 INFO bellperson::multiexp > GPU Multiexp kernel instantiated!
+2021-12-01T18:16:45.425 INFO bellperson::groth16::prover > ZR: h_s end: 84.806113865s
+2021-12-01T18:16:45.489 INFO bellperson::groth16::prover::bench_util > h_s end | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:16:45.494 INFO bellperson::groth16::prover > ZR: l_s start
+2021-12-01T18:16:45.521 INFO bellperson::groth16::prover::bench_util > l_s start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:17:32.610 INFO bellperson::groth16::prover > ZR: l_s end: 47.085512452s
+2021-12-01T18:17:32.665 INFO bellperson::groth16::prover::bench_util > l_s end start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:17:32.669 INFO bellperson::groth16::prover > ZR: inputs start
+2021-12-01T18:17:32.696 INFO bellperson::groth16::prover::bench_util > inputs start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:17:32.729 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:17:33.012 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.14GB
+2021-12-01T18:17:35.310 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 171.00GB
+2021-12-01T18:17:46.513 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.12GB
+2021-12-01T18:17:48.125 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 171.00GB
+2021-12-01T18:17:51.557 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.12GB
+2021-12-01T18:17:53.138 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 171.01GB
+2021-12-01T18:17:59.625 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.24GB
+2021-12-01T18:17:59.885 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.24GB
+2021-12-01T18:18:01.981 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.10GB
+2021-12-01T18:18:05.959 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.22GB
+2021-12-01T18:18:07.499 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.10GB
+2021-12-01T18:18:08.725 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.23GB
+2021-12-01T18:18:10.233 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 167.11GB
+2021-12-01T18:18:12.538 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.34GB
+2021-12-01T18:18:12.797 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.34GB
+2021-12-01T18:18:15.353 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.20GB
+2021-12-01T18:18:18.861 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.32GB
+2021-12-01T18:18:20.410 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.20GB
+2021-12-01T18:18:21.556 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.32GB
+2021-12-01T18:18:23.106 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 163.20GB
+2021-12-01T18:18:25.349 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.43GB
+2021-12-01T18:18:25.608 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.43GB
+2021-12-01T18:18:28.593 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.29GB
+2021-12-01T18:18:31.941 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.41GB
+2021-12-01T18:18:34.837 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.29GB
+2021-12-01T18:18:35.960 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.41GB
+2021-12-01T18:18:38.606 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 159.29GB
+2021-12-01T18:18:40.773 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.42GB
+2021-12-01T18:18:41.036 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.42GB
+2021-12-01T18:18:43.224 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.28GB
+2021-12-01T18:18:46.554 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.40GB
+2021-12-01T18:18:50.801 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.28GB
+2021-12-01T18:18:51.944 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.40GB
+2021-12-01T18:18:53.610 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 155.28GB
+2021-12-01T18:18:55.786 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.51GB
+2021-12-01T18:18:56.048 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.51GB
+2021-12-01T18:18:58.197 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.37GB
+2021-12-01T18:19:01.535 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.49GB
+2021-12-01T18:19:03.121 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.37GB
+2021-12-01T18:19:04.282 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.49GB
+2021-12-01T18:19:05.866 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 151.37GB
+2021-12-01T18:19:08.093 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.60GB
+2021-12-01T18:19:08.361 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.60GB
+2021-12-01T18:19:10.525 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.46GB
+2021-12-01T18:19:13.894 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.58GB
+2021-12-01T18:19:15.455 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.46GB
+2021-12-01T18:19:16.613 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.58GB
+2021-12-01T18:19:18.157 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 147.46GB
+2021-12-01T18:19:20.672 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.69GB
+2021-12-01T18:19:20.927 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.69GB
+2021-12-01T18:19:23.354 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.55GB
+2021-12-01T18:19:27.006 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.67GB
+2021-12-01T18:19:28.630 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.55GB
+2021-12-01T18:19:30.714 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.67GB
+2021-12-01T18:19:32.344 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 143.55GB
+2021-12-01T18:19:34.614 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.78GB
+2021-12-01T18:19:34.874 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.78GB
+2021-12-01T18:19:36.959 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.64GB
+2021-12-01T18:19:40.497 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.76GB
+2021-12-01T18:19:42.029 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.64GB
+2021-12-01T18:19:43.154 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.76GB
+2021-12-01T18:19:44.669 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 139.64GB
+2021-12-01T18:19:46.886 INFO bellperson::groth16::prover::bench_util > a_inputs multiexp_fulldensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 131.87GB
+2021-12-01T18:19:47.151 INFO bellperson::groth16::prover::bench_util > bss exps skip n density_filter | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 131.87GB
+2021-12-01T18:19:49.280 INFO bellperson::groth16::prover::bench_util > a_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.73GB
+2021-12-01T18:19:52.713 INFO bellperson::groth16::prover::bench_util > b_g1_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 131.85GB
+2021-12-01T18:19:54.257 INFO bellperson::groth16::prover::bench_util > b_g1_aux multiexp_skipgdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.73GB
+2021-12-01T18:19:55.400 INFO bellperson::groth16::prover::bench_util > b_g2_inputs multiexp | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 131.85GB
+2021-12-01T18:19:57.304 INFO bellperson::groth16::prover::bench_util > b_g2_aux multiexp_skipdensity | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 135.73GB
+2021-12-01T18:19:59.403 INFO bellperson::groth16::prover > ZR: inputs end: 146.701770657s
+2021-12-01T18:19:59.449 INFO bellperson::groth16::prover::bench_util > inputs end | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 127.96GB
+2021-12-01T18:19:59.622 INFO bellperson::groth16::prover > ZR: proofs start
+2021-12-01T18:19:59.649 INFO bellperson::groth16::prover::bench_util > proofs start | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 127.67GB
+2021-12-01T18:19:59.665 INFO bellperson::groth16::prover > ZR: proofs end: 11.066696ms
+2021-12-01T18:19:59.688 INFO bellperson::groth16::prover::bench_util > proofs end | process id: 3633967 | Cpu Usage 0% | Physical MemUsage 127.67GB
+2021-12-01T18:19:59.691 INFO bellperson::groth16::prover > ZR: prover time: 726.264990395s
+2021-12-01T18:20:02.241 INFO filecoin_proofs::api::seal > snark_proof:finish
+2021-12-01T18:20:02.241 INFO filecoin_proofs::api::seal > verify_seal:start: SectorId(0)
+2021-12-01T18:20:02.241 INFO filecoin_proofs::caches > trying parameters memory cache for: STACKED[34359738368]-verifying-key
+2021-12-01T18:20:02.241 INFO filecoin_proofs::caches > no params in memory cache for STACKED[34359738368]-verifying-key
+2021-12-01T18:20:02.242 INFO storage_proofs_core::parameter_cache > parameter set identifier for cache: layered_drgporep::PublicParams{ graph: stacked_graph::StackedGraph{expansion_degree: 8 base_graph: drgraph::BucketGraph{size: 1073741824; degree: 6; hasher: poseidon_hasher} }, challenges: LayerChallenges { layers: 11, max_count: 18 }, tree: merkletree-poseidon_hasher-8-8-0 }
+2021-12-01T18:20:02.242 INFO storage_proofs_core::parameter_cache > ensuring that all ancestor directories for: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" exist
+2021-12-01T18:20:02.242 INFO storage_proofs_core::parameter_cache > checking cache_path: "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" for verifying key
+2021-12-01T18:20:02.265 INFO storage_proofs_core::parameter_cache > read verifying key from cache "/home/ceshi/.lotusworker/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk" 
+2021-12-01T18:20:02.283 INFO filecoin_proofs::api::seal > got verifying key (34359738368) while verifying seal
+2021-12-01T18:20:02.287 INFO filecoin_proofs::api::seal > verify_seal:finish: SectorId(0)
+2021-12-01T18:20:02.287 INFO filecoin_proofs::api::seal > seal_commit_phase2:finish: SectorId(0)
+2021-12-01T18:20:02.287 INFO filcrypto::proofs::api > seal_commit_phase2: finish
+2021-12-01T18:20:02.287+0800	INFO	ffiwrapper	ffiwrapper/sealer_cgo.go:643	ZR: ffi C2 end:	{"sector": "0", "elapsed": 731.035738088}
+proof: b76a9938a3ee01d8ff0c6c27026a5a4f243fda4727e26047cf37adb47aae9f745eab83691b256538594bd9c149b8050185fd179a9caa179f0a12e2235c401e5b45634fe4435a832c6cd01d51aa2f9945e6095d02331182a6be592717de1b50f112327a78b956c519df362d1a8edacef29d7610dd5339e82453d053c34c366265a675aa13eb65d16ed70dfdbdf8aee7eb938a3a84ffaa750f81bbd1f90c76c90ed1a78a9c578a256da1f5c0956555358d0340eff96fde9e823c58401b0ef5b17393dbc935a0a8f244be5a85b38da8b6f76d63be20c55768cdddd63bc89d1e76816fb6f099e4751953652de738f926a6a5a4164e7b33cfe89e4154410a1f2763f56252aaf11d79a5ad7bde7dbbe99161012d892c73e01ec3dd289b33fc311dec290bc3aa2d31fe6d6b7a0169b53086c509f6908d37de2114b643a19ed3f0cf0a825ab8d9bc24ed355a46a7f13380d7170baa9a2be20ac2cace2d341e5d810ff90f205a8bfed5edf231f495a80ba4fc0a7c28ba30978fff88852a90ff5a525ef2d7a0ccc9d528656ac3a90605ab1bf9af659eeddd210322d6a00da38d27882fd8b17ca19a7e430ec383c016cae70ef36257abede38a47a0795c6c0908f0a8ac4911ea49fc67f57321f922d549a193ba3e6373c3f6e37eaad0f2b6a96d57d795cc4c097a62da094c603d39b5aba7caa9e77426079e079f19cdec4d5b7b8d8b9dc26286c04848c563a3fd3825b1850cc42e9db8771f457689cc126156906bc8151eaa90d979fb7aaecb3ba1a56410c3d3132b0e12eec106d344651ff7743f9d2d5959a515965d020a6509f34e041140258c8f9b41a68b55e5641d3f17999009f28ce5f2812b06eb51ee27c6d232b273567111a1f4981897ce282e9c3e9cf03ab6f94ac34bac8bf11fa29eef7065fe4b56c06e425dd40eada9d7e6ea9c7f3cd7d9d515092339ffdf72bbd58529501b1b88c710b639b2e8e5b4fd865ac4370926d835c4f47c15322171b8be9d009ad4d6dbdb46b6ed8ce4401df4089f891e1079ee33a67977d471ae92bed99893b0de4d93e47fc74ffa3f6bbb2872ce35867ad369eae98c3e7b523d17d997b65c0946ef6e0c260735f83a98c0116d297619cafabf797f07877e1de60e28a4a40738dff1b232399614baef146ce241bcb9cb49b4d1e7ea3d94ccc9f4c36233943aafbe31e117ee59b33d4f8371289291e867b66da08aff19c249f443a39b11c3219d4dd4f28a9733d1fd16a7bf022d8261e2e3a8fd14bdc5d1d51aa06d8fa39c49b6e7339fc1ca86ad37707853ba395e12537549613e40e71d7d85057faa410d463ced6b91345142df7eaf0a779a1187f308fd9d5219f28aa560182bc4aa0cafeb17d7117cb68760cf8de018034357646f80250b80e0fa74922bb5a8b648b63d15af5b3b4012c18f6694701a7e123e0e32aca690967affc575d4f88888242070a321a180e88d1f70fe367bc3ade044d675bd86a8d3cb081100df65cdb0e3bd58f84e981207f51bf6cc7c09d868cc6c17249baa4c0e6b697b010b3a35b8a3922205cf5a223e95c8902a0610f0e87cb56664defc6b2b3c49a7c006daa094dcfd3352bcb7e6f36cdf4abbf38cea5a2a71fd5ae0daf68b8440ae9c80c8ec830dde5abb90502b99bef58a46ba5a59104860f06691c5b76b2ca154e3980cd9a94739ee00512ed544c5a3a6a23b60433ca0f92163a2028bae7327d853b2889b8d5fbba143191febff40fa2e852f420c396d66b29c8dd84d63683812cc503ad71132e3d6e833707f4e49b908657ba09de6c12f329569c3358606df986f0920573a3642b7e9c6886e54e783a14ce0ea7714580b0345b1b906b746cb49c86a163e98ee86486a3d82db9433c224319868a618e85d92106d4f8231a0ceac41062ce70b8577277bbe3768c0dc56531373af19d0d7e8f4243235d3eb1489ec5a55008dc9d9421a933926f859d3ff880365084c046c31518826945abaf2575528121eef70f406ea70c4fe9bc41bba667adfb51bd1c72edb9e204550c77137045f60664fd7dc539c0845cfd81f07f3f77fe81d3fd0d65676c26c816147fa4fe753eed56f32ff6f25e9ac6bdffeaec4a8ba594bd9573143a947005a041d572a13b8330e2c61191499954e5276c916d3f8a2f0305056c76d5b23bfdd255ad15f88ab2c597d625c3bd1fbe692159331b6be4603e8228a23ce2a31577dbac4711a7e07966e7ce4795fc52ee35c4242483c931d7bc55a2c7ecd4bbb61a8cd0d8def04d9431246e33ad29be74186864e5f69b065d5454204291ed110b4cb498dfee20737dbb1a8e176c24bd0be46a2f72ab2d9b781ab00d6f5696ec48699ce6a56318d5755f3e17dba56e705080996153aad99b0243f4e8be5fdc2d11a5c8794aa3b2e594a3701171455d7d5467823caa7a95b08106706108591b072036173ca026586d1e9bbb4fc1620d6da7c01e3c8e84fb2ee4efd682de0ba8e5db4f63aadd4b291a3011a1177428128d09292144c929eb3a59fc71f2797a60e3a7c3149ac839e7771c3d5625f4e8faca3d7575b75509b543829958a494d282720431905cff53903203760d0d3caebfeba8c769114f6f5037be19af9aad7b66499b0137b72ca465a45ec881b839a29e2cf05a35650cfc4aaa9dd83f6f9cce240834346e0093a927c37287e6bc30508faae94ebe014db5e58664b107d7be1c0d8c099e975421843
+----
+results (v28) (34359738368)
+seal: commit phase 2: 12m11.036017792s (44.82 MiB/s)
